@@ -33,6 +33,7 @@ jobs:
           python -m pip install requests pytz
           python -m pip install --upgrade pip
           pip install beautifulsoup4 playwright bs4 lxml
+          pip install python-dotenv
           playwright install chromium
           pip install chardet
 
