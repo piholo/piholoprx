@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="England - Premier League - Crystal Palace vs Wolverhampton Wanderers" tvg-name="20:00 England - Premier League : Crystal Palace vs Wolverhampton Wanderers - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="England - Premier League - Manchester City vs AFC Bournemouth" tvg-name="20:00 England - Premier League : Manchester City vs AFC Bournemouth - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
+
+#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs. Reyer Venezia" tvg-name="19:30 Lega A : Virtus Bologna vs. Reyer Venezia - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sport 1 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
+
+#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs. Reyer Venezia" tvg-name="19:30 Lega A : Virtus Bologna vs. Reyer Venezia - 20/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Crotone" tvg-name="19:00 Italy - Serie C : Vicenza vs Crotone - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Giana Erminio" tvg-name="19:00 Italy - Serie C : Ternana vs Giana Erminio - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 255 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Audace Cerignola vs Atalanta II" tvg-name="19:00 Italy - Serie C : Audace Cerignola vs Atalanta II - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Vis Pesaro" tvg-name="19:00 Italy - Serie C : Pescara vs Vis Pesaro - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-7.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Cremonese" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Cremonese - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-77.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="19:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-86.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV8 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-12.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
+
