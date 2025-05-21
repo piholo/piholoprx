@@ -127,9 +127,9 @@ def get_dynamic_logo(event_name):
 
 
     # Verifica se l'evento è di Serie A o altre leghe
-    is_serie_a_or_other_leagues = any(league in event_name for league in ["Italy - Serie A :", "La Liga :", "Premier League :", "Bundesliga :", "Ligue 1 :"])
-    is_serie_b_or_c = any(league in event_name for league in ["Italy - Serie B :", "Italy - Serie C :"])
-    is_uefa_or_coppa = any(league in event_name for league in ["UEFA Champions League :", "UEFA Europa League :", "Conference League :", "Coppa Italia :"])
+    is_serie_a_or_other_leagues = any(league in event_name for league in ["Italy - Serie A", "La Liga", "Premier League", "Bundesliga", "Ligue 1"])
+    is_serie_b_or_c = any(league in event_name for league in ["Italy - Serie B", "Italy - Serie C"])
+    is_uefa_or_coppa = any(league in event_name for league in ["UEFA Champions League", "UEFA Europa League", "Conference League", "Coppa Italia"])
 
     if is_serie_a_or_other_leagues:
         print(f"Evento Serie A o altre leghe rilevato: {event_name}")
