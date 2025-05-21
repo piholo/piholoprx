@@ -63,9 +63,9 @@ def decode_base64_keys(encoded_string):
         print(f"Errore durante la decodifica base64: {e}")
         return None, None
 
-def generate_proxy_url(mpd_link, key1, key2, api_password="{PSWMFP}"):
+def generate_proxy_url(mpd_link, key1, key2, api_password=f"{PSWMFP}"):
     """Genera l'URL proxy con i parametri richiesti"""
-    base_url = "{PROXYMFPMPD}"
+    base_url = f"{PROXYMFPMPD}"
     
     # Rimuovi il parametro ck= dall'URL MPD prima di codificarlo
     mpd_base = mpd_link.split('?ck=')[0] if '?ck=' in mpd_link else mpd_link
