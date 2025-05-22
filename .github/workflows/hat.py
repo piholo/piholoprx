@@ -1,7 +1,7 @@
 name: Update hat
 on:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "10 10 * * *"
   workflow_dispatch:
 permissions:
   contents: write  # To push changes to repository
@@ -31,9 +31,7 @@ jobs:
         run: |
           python -m pip install requests pytz
           python -m pip install --upgrade pip
-          pip install beautifulsoup4 playwright bs4 lxml
           pip install python-dotenv
-          playwright install chromium
           pip install chardet
 
       - name: Pulisci file JSON esistenti
@@ -41,23 +39,10 @@ jobs:
           rm -f daddyliveSchedule.json
           echo "File JSON eliminati per garantire dati freschi"
           
-      - name: Run script extract schedule
+      - name: Run script hat
         run: |
-          python extract_schedule.py
+          python hat.py
 
-      - name: Run script daddy ita e fullita
-        run: |
-          python itaevents.py
-          python fullita.py
-
-      - name: Run script mergelists
-        run: |
-          python mergelists.py channels_italy.m3u8 247ita.m3u8 itaevents.m3u8
-                    
-      - name: Run script epg
-        run: |
-          python epg.py
-          
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
