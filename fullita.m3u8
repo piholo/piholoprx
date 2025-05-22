@@ -29,3 +29,9 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-461.php
 
+#EXTINF:-1 tvg-id="Bundesliga - Heidenheim vs Elversberg" tvg-name="19:30 Bundesliga : Heidenheim vs Elversberg - 22/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-870.php
+
+#EXTINF:-1 tvg-id="Lega A - Pallacanestro Reggiana vs. Trapani Shark" tvg-name="19:00 Lega A : Pallacanestro Reggiana vs. Trapani Shark - 22/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
+https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
+
