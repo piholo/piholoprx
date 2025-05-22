@@ -161,7 +161,7 @@ https://mfp.pibuco.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear308-it-
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (Hd)
 https://mfp.pibuco.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=mfp
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO (H)
-https://mfp.pibuco.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd&key_id=003610b8556000936e48061cdb4ee11a&key=2cd6bcc2160aa6ec048e5a5f7a0f73c8&api_password=mfp
+https://linear303-it-dash1-prd-sn.cdn13.skycdp.com/016a/31035/FHD/skysport24/master_stereo.mpd?ck=MDAzNjYzZGRmMWFjYjI1ZWE4OGE3Y2Y5NzNhZmMwZDU6MzVlYTkxYjQxNTFkNjk3NTAwNzk5OGMzMjhkYWVlNmM=&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
 https://mfp.pibuco.duckdns.org/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312&api_password=mfp
 #EXTINF:-1 tvg-id="" tvg-name="live12hd " tvg-logo="" group-title="Altro", live12hd (Hd)
