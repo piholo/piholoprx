@@ -287,30 +287,75 @@ def create_m3u_entry(channel_name, proxy_url):
     return f"{extinf}\n{proxy_url}\n"
 
 def add_channels_to_m3u(channels, m3u_file):
-    """Aggiunge i canali al file M3U"""
-    # Verifica che il file esista
-    if not os.path.exists(m3u_file):
-        print(f"File M3U non trovato: {m3u_file}")
+    """Aggiunge i canali al file M3U specificato"""
+    try:
+        # Leggi il file M3U esistente per verificare i canali già presenti
+        existing_channels = set()
+        if os.path.exists(m3u_file):
+            with open(m3u_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+                # Estrai i nomi dei canali dalle righe #EXTINF
+                for line in content.split('\n'):
+                    if line.startswith('#EXTINF'):
+                        # Estrai il nome del canale tra l'ultimo virgola e la fine della riga
+                        match = re.search(r',[^,]*\s*([^,\(]+)(?:\s*\([^\)]+\))?\s*$', line)
+                        if match:
+                            channel_name = match.group(1).strip()
+                            existing_channels.add(channel_name.lower())
+        
+        # Apri il file in modalità append
+        with open(m3u_file, 'a', encoding='utf-8') as f:
+            channels_added = 0
+            
+            for channel_name, proxy_url in channels.items():
+                # Ottieni il nome del canale formattato
+                formatted_name = channel_associations.get(channel_name, channel_name)
+                
+                # Verifica se il canale è già presente (controllo case-insensitive)
+                if any(existing.lower() in formatted_name.lower() or formatted_name.lower() in existing.lower() for existing in existing_channels):
+                    print(f"Canale '{formatted_name}' già presente, saltato.")
+                    continue
+                
+                # Ottieni tvg-id, logo e gruppo
+                tvg_id = ""
+                for key, value in channel_associations.items():
+                    if key == channel_name:
+                        for tvg_key, tvg_value in STATIC_TVG_IDS.items():
+                            if tvg_key.lower() in value.lower():
+                                tvg_id = tvg_value
+                                break
+                
+                logo = ""
+                for key, value in channel_associations.items():
+                    if key == channel_name:
+                        for logo_key, logo_value in STATIC_LOGOS.items():
+                            if logo_key.lower() in value.lower():
+                                logo = logo_value
+                                break
+                
+                group = "Altro"
+                for key, value in channel_associations.items():
+                    if key == channel_name:
+                        for group_key, group_value in STATIC_CATEGORIES.items():
+                            if group_key.lower() in value.lower():
+                                group = group_value
+                                break
+                
+                # Aggiungi il canale al file M3U
+                if "hd" in channel_name.lower():
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{formatted_name} " tvg-logo="{logo}" group-title="{group}", {formatted_name} (Hd)\n')
+                else:
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{formatted_name} " tvg-logo="{logo}" group-title="{group}", {formatted_name} (H)\n')
+                f.write(f'{proxy_url}\n')
+                channels_added += 1
+                
+                # Aggiungi il canale alla lista dei canali esistenti per evitare duplicati nello stesso batch
+                existing_channels.add(formatted_name.lower())
+            
+            return channels_added > 0
+    except Exception as e:
+        print(f"Errore durante l'aggiunta dei canali al file M3U: {e}")
         return False
-    
-    # Leggi il contenuto attuale del file M3U
-    with open(m3u_file, 'r', encoding='utf-8') as f:
-        m3u_content = f.read()
-    
-    # Prepara le nuove voci da aggiungere
-    new_entries = []
-    for channel_name, proxy_url in channels.items():
-        entry = create_m3u_entry(channel_name, proxy_url)
-        new_entries.append(entry)
-    
-    # Aggiungi le nuove voci alla fine del file M3U
-    with open(m3u_file, 'a', encoding='utf-8') as f:
-        f.write("\n# Canali aggiunti da Hattrick\n")
-        for entry in new_entries:
-            f.write(entry)
-    
-    print(f"Aggiunti {len(new_entries)} canali al file M3U: {m3u_file}")
-    return True
 
 def main():
     # URL principale da cui iniziare
