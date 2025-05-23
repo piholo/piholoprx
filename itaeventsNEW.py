@@ -217,7 +217,20 @@ def search_logo_for_event(event_name):
                         file_age = time.time() - os.path.getmtime(output_path)
                         if file_age <= 10800:  # 3 ore in secondi
                             print(f"[✓] Utilizza immagine combinata in cache: {output_path}")
-                            return output_path
+                            
+                            # Carica le variabili d'ambiente per GitHub
+                            NOMEREPO = os.getenv("NOMEREPO", "").strip()
+                            NOMEGITHUB = os.getenv("NOMEGITHUB", "").strip()
+                            
+                            # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
+                            if NOMEGITHUB and NOMEREPO:
+                                relative_path = os.path.relpath(output_path, current_dir)
+                                github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{relative_path}"
+                                print(f"[✓] URL GitHub generato per logo esistente: {github_raw_url}")
+                                return github_raw_url
+                            else:
+                                # Altrimenti restituisci il percorso locale
+                                return output_path
 
                     # Download loghi con verifica
                     # Headers universali per tutti i download
@@ -229,11 +242,11 @@ def search_logo_for_event(event_name):
                     # Scarica i loghi
                     response1 = requests.get(logo1_url, headers=headers, timeout=10)
                     response1.raise_for_status()
-                    img1 = Image.open(io.BytesIO(response1.content))
+                    img1 = Image.open(io.BytesIO(response1.content)).convert('RGBA')
                     
                     response2 = requests.get(logo2_url, headers=headers, timeout=10)
                     response2.raise_for_status()
-                    img2 = Image.open(io.BytesIO(response2.content))
+                    img2 = Image.open(io.BytesIO(response2.content)).convert('RGBA')
 
                     # Carica/Crea immagine VS
                     if os.path.exists(vs_path):
@@ -258,7 +271,20 @@ def search_logo_for_event(event_name):
                     # Salvataggio
                     combined.save(output_path, "PNG")
                     print(f"[✓] Immagine combinata generata: {output_path}")
-                    return output_path
+                    
+                    # Carica le variabili d'ambiente per GitHub
+                    NOMEREPO = os.getenv("NOMEREPO", "").strip()
+                    NOMEGITHUB = os.getenv("NOMEGITHUB", "").strip()
+                    
+                    # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
+                    if NOMEGITHUB and NOMEREPO:
+                        relative_path = os.path.relpath(output_path, current_dir)
+                        github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{relative_path}"
+                        print(f"[✓] URL GitHub generato: {github_raw_url}")
+                        return github_raw_url
+                    else:
+                        # Altrimenti restituisci il percorso locale
+                        return output_path
 
                 except Exception as e:
                     print(f"[!] Errore creazione logo combinato: {str(e)}")
@@ -271,6 +297,12 @@ def search_logo_for_event(event_name):
         search_query = urllib.parse.quote(f"{clean_event_name} logo")
         search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square"
         
+        # Headers per la ricerca Bing
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36',
+            'Accept': 'image/png,image/jpeg,image/svg+xml,image/*,*/*;q=0.8'
+        }
+        
         response = requests.get(search_url, headers=headers, timeout=10)
         if response.status_code == 200:
             match = re.search(r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"', response.text)
@@ -281,7 +313,6 @@ def search_logo_for_event(event_name):
     except Exception as e:
         print(f"[!] Errore nella ricerca del logo: {str(e)}")
         return None
-
 
 
 
@@ -1022,3 +1053,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+y
