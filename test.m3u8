@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ukraine Premier League - Inhulets Petrove vs Vorskla Poltava" tvg-name="14:30 Ukraine Premier League : Inhulets Petrove vs Vorskla Poltava - 23/05/25" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/03/FC-Inhulets-Petrove-Logo-Small.png" group-title="Calcio", UPLTV
+#EXTINF:-1 tvg-id="Ukraine Premier League - Inhulets Petrove vs Vorskla Poltava" tvg-name="14:30 Ukraine Premier League : Inhulets Petrove vs Vorskla Poltava - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Inhulets Petrove_vs_Vorskla Poltava.png" group-title="Calcio", UPLTV
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9000.php
 
-#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/fG1ME3yPGr7ldBB/werder-bremen-1929-1971-logo.png" group-title="Calcio", Sky Sport Mix DE
+#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen_vs_Karlsruher SC.png" group-title="Calcio", Sky Sport Mix DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-557.php
 
-#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/fG1ME3yPGr7ldBB/werder-bremen-1929-1971-logo.png" group-title="Calcio", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen_vs_Karlsruher SC.png" group-title="Calcio", Sky Sport Top Event DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Simulcast" tvg-name="19:30 Austria - Football Bundesliga : Simulcast - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/Hy8fam9e0ZuyPum/austrian-bundesliga-1997-2009-logo.png" group-title="Calcio", Sky Sport Austria 1
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Simulcast" tvg-name="19:30 Austria - Football Bundesliga : Simulcast - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 1
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-559.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Rheindorf Altach" tvg-name="19:30 Austria - Football Bundesliga : LASK Linz vs Rheindorf Altach - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/lask-linz-logo-png-transparent.png" group-title="Calcio", Sky Sport Austria 2
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Rheindorf Altach" tvg-name="19:30 Austria - Football Bundesliga : LASK Linz vs Rheindorf Altach - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/LASK Linz_vs_Rheindorf Altach.png" group-title="Calcio", Sky Sport Austria 2
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Rheindorf Altach" tvg-name="19:30 Austria - Football Bundesliga : LASK Linz vs Rheindorf Altach - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/lask-linz-logo-png-transparent.png" group-title="Calcio", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Rheindorf Altach" tvg-name="19:30 Austria - Football Bundesliga : LASK Linz vs Rheindorf Altach - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/LASK Linz_vs_Rheindorf Altach.png" group-title="Calcio", Sport Klub HD Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Klagenfurt vs Hartberg" tvg-name="19:30 Austria - Football Bundesliga : Austria Klagenfurt vs Hartberg - 23/05/25" tvg-logo="https://i.pinimg.com/originals/24/2c/8b/242c8b6d56cb86c4aea470923b840cbd.png" group-title="Calcio", Sky Sport Austria 3
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Klagenfurt vs Hartberg" tvg-name="19:30 Austria - Football Bundesliga : Austria Klagenfurt vs Hartberg - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Austria Klagenfurt_vs_Hartberg.png" group-title="Calcio", Sky Sport Austria 3
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-2.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Klagenfurt vs Hartberg" tvg-name="19:30 Austria - Football Bundesliga : Austria Klagenfurt vs Hartberg - 23/05/25" tvg-logo="https://i.pinimg.com/originals/24/2c/8b/242c8b6d56cb86c4aea470923b840cbd.png" group-title="Calcio", Sport Klub 4 Croatia
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Klagenfurt vs Hartberg" tvg-name="19:30 Austria - Football Bundesliga : Austria Klagenfurt vs Hartberg - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Austria Klagenfurt_vs_Hartberg.png" group-title="Calcio", Sport Klub 4 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - WSG Tirol vs Grazer AK" tvg-name="19:30 Austria - Football Bundesliga : WSG Tirol vs Grazer AK - 23/05/25" tvg-logo="https://1.bp.blogspot.com/-hTyEqL2oE-w/YPDGozS4uLI/AAAAAAABkog/rx8D4scIKnQWlsibZujHzlZdGpwbrqYAwCLcBGAsYHQ/s512/WSG%2BTirol.png" group-title="Calcio", Sky Sport Austria 4
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - WSG Tirol vs Grazer AK" tvg-name="19:30 Austria - Football Bundesliga : WSG Tirol vs Grazer AK - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/WSG Tirol_vs_Grazer AK.png" group-title="Calcio", Sky Sport Austria 4
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-3.php
 
 #EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Calcio", Sky Sport Bundesliga 1
@@ -56,7 +56,7 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Saarbrücken vs Eintracht Braunschweig" tvg-name="20:30 Germany - Bundesliga 2 : Saarbrücken vs Eintracht Braunschweig - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748001202_saarbrcken-x-eintracht-braunschweig.png" group-title="Calcio", Sport 3 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
 
-#EXTINF:-1 tvg-id="Italy - Serie A - Simulcast" tvg-name="20:45 Italy - Serie A : Simulcast - 23/05/25" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo-history.png" group-title="Calcio", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="Italy - Serie A - Simulcast" tvg-name="20:45 Italy - Serie A : Simulcast - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="20:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748000313_como-x-internazionale.png" group-title="Calcio", DAZN IT
@@ -203,545 +203,545 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="Spain - La Liga - Real Betis vs Valencia" tvg-name="21:00 Spain - La Liga : Real Betis vs Valencia - 23/05/25" tvg-logo="https://skystreaming.help/content/thumbs/e1964866b1f03d1bad6ca843e0b1f756." group-title="Calcio", SuperSport Laliga
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Goiás vs Ferroviária" tvg-name="02:35 Brazil - Serie B : Goiás vs Ferroviária - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/mwMSvMN9680q6UL/goias-2013-2019-logo.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Goiás vs Ferroviária" tvg-name="02:35 Brazil - Serie B : Goiás vs Ferroviária - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Goiás_vs_Ferroviária.png" group-title="Calcio", ESPN Brazil
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court Suzanne-Lenglen" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court Suzanne-Lenglen - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court Suzanne-Lenglen" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court Suzanne-Lenglen - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 14" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 14 - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 14" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 14 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 7" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 7 - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 7" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 7 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 6" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 6 - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 6" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 8" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 8 - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 8" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 8 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 9" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 9 - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 9" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 9 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 12" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 12 - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 12" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 12 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 13" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 13 - 23/05/25" tvg-logo="https://images.prismic.io/fft-billetterie/6e24ec02-c459-4b61-bcf9-179e5044d035_Logo+RG.png?auto=compress,format" group-title="Roland Garros Qualifying", Tennis Stream
+#EXTINF:-1 tvg-id="ROLAND GARROS QUALIFYING - Court 13" tvg-name="11:00 ROLAND GARROS QUALIFYING : Court 13 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Roland Garros Qualifying", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Etcheverry T. M. vs Cobolli F." tvg-name="15:30 ATP - HAMBURG : Etcheverry T. M. vs Cobolli F. - 23/05/25" tvg-logo="https://www.forebet.com/images/fc/br.png" group-title="Atp - Hamburg", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Etcheverry T. M. vs Cobolli F." tvg-name="15:30 ATP - HAMBURG : Etcheverry T. M. vs Cobolli F. - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Etcheverry T. M._vs_Cobolli F..png" group-title="Atp - Hamburg", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - HAMBURG - Auger-Aliassime F. vs Rublev A." tvg-name="17:30 ATP - HAMBURG : Auger-Aliassime F. vs Rublev A. - 23/05/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/19/augeraliassime_f.png?itok=fOZjM2MX" group-title="Atp - Hamburg", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HAMBURG - Auger-Aliassime F. vs Rublev A." tvg-name="17:30 ATP - HAMBURG : Auger-Aliassime F. vs Rublev A. - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Auger-Aliassime F._vs_Rublev A..png" group-title="Atp - Hamburg", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="ATP - GENEVA - Hurkacz H. vs Ofner S." tvg-name="14:00 ATP - GENEVA : Hurkacz H. vs Ofner S. - 23/05/25" tvg-logo="https://sportbetworld.com/static/team/5/158896/hurkacz-hubert.png" group-title="Atp - Geneva", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - GENEVA - Hurkacz H. vs Ofner S." tvg-name="14:00 ATP - GENEVA : Hurkacz H. vs Ofner S. - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Hurkacz H._vs_Ofner S..png" group-title="Atp - Geneva", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Rybakina E. vs Haddad Maia B." tvg-name="14:30 WTA - STRASBOURG : Rybakina E. vs Haddad Maia B. - 23/05/25" tvg-logo="https://www.casasdeapuestasonline.net/imagenes/yelena-rybakina.png" group-title="Wta - Strasbourg", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - STRASBOURG - Rybakina E. vs Haddad Maia B." tvg-name="14:30 WTA - STRASBOURG : Rybakina E. vs Haddad Maia B. - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Rybakina E._vs_Haddad Maia B..png" group-title="Wta - Strasbourg", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Samsonova L." tvg-name="16:30 WTA - STRASBOURG : Collins D. vs Samsonova L. - 23/05/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/moda-collins-logo.png" group-title="Wta - Strasbourg", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - STRASBOURG - Collins D. vs Samsonova L." tvg-name="16:30 WTA - STRASBOURG : Collins D. vs Samsonova L. - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Collins D._vs_Samsonova L..png" group-title="Wta - Strasbourg", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="WTA - RABAT - Tomljanovic A. vs Joint M." tvg-name="12:00 WTA - RABAT : Tomljanovic A. vs Joint M. - 23/05/25" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/929746a0-24b4-4de3-bfb4-fc035337f53f/ddzvhyl-e4a7a094-558e-4aea-9838-9ba41663d0cd.png/v1/fill/w_934,h_855/ajla_tomljanovic_render__1_by_tennispng_ddzvhyl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzY2MSIsInBhdGgiOiJcL2ZcLzkyOTc0NmEwLTI0YjQtNGRlMy1iZmI0LWZjMDM1MzM3ZjUzZlwvZGR6dmh5bC1lNGE3YTA5NC01NThlLTRhZWEtOTgzOC05YmE0MTY2M2QwY2QucG5nIiwid2lkdGgiOiI8PTQwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.gN7Ziy7n5oeJ_mVZ9AMqAmS0H2gpFsLlW00D3t1d6Lo" group-title="Wta - Rabat", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - RABAT - Tomljanovic A. vs Joint M." tvg-name="12:00 WTA - RABAT : Tomljanovic A. vs Joint M. - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Tomljanovic A._vs_Joint M..png" group-title="Wta - Rabat", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="WTA - RABAT - Cristian J. vs Osorio C." tvg-name="15:30 WTA - RABAT : Cristian J. vs Osorio C. - 23/05/25" tvg-logo="https://clipground.com/images/christian-logo-png-12.png" group-title="Wta - Rabat", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - RABAT - Cristian J. vs Osorio C." tvg-name="15:30 WTA - RABAT : Cristian J. vs Osorio C. - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Cristian J._vs_Osorio C..png" group-title="Wta - Rabat", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-40.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-46.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", TSN5
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-115.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Sky Sports Tennis DE
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-884.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-713.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", beIN SPORTS Australia 1
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-491.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", beIN SPORTS Australia 2
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-492.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-701.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Cosmote Sport 7
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 7
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-628.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Nova Sports 6 Greece
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-636.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Movistar Deportes 2 Spain
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-438.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-915.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-472.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Premium 3 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-139.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", EuroSport 2 France
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-773.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-396.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Ziggo Sport 5 NL
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-383.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-453.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Digi Sport 4 Romania
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 4 Romania
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Arena 2 Serbia
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena 2 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-430.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", Max Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-474.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
 
-#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://logodix.com/logo/760985.png" group-title="Tennis", Sport 3 Israel
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 3 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php
 
-#EXTINF:-1 tvg-id="Roland Garros 2025 Qualifying rounds of Roland-Garros - Roland Garros 2025 Qualifying rounds of Roland-Garros" tvg-name="12:00 Roland Garros 2025 Qualifying rounds of Roland-Garros - 23/05/25" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Tennis", TNT Sports 5 UK
+#EXTINF:-1 tvg-id="Roland Garros 2025 Qualifying rounds of Roland-Garros - Roland Garros 2025 Qualifying rounds of Roland-Garros" tvg-name="12:00 Roland Garros 2025 Qualifying rounds of Roland-Garros - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-23.php
 
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="10:55 Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="10:55 Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="10:55 Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="10:55 Moto3 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", TNT Sports 2 UK
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sky Sport Mix DE
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-557.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", DAZN1 ES
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-445.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Canal+ Sport 360
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-464.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sport TV4 Portugal
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-289.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", ESPN Argentina
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Cosmote Sport 5 Greece
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-626.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Cytavision Sports 6
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Digi Sport 3 Romania
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Free Practice 1" tvg-name="11:00 MotoGP : Storbritanniens Grand Prix Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", DAZN F1 ES
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Practice" tvg-name="11:00 Formula 3 : Tag Heuer Monaco Grand Prix - Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Motorsport", DAZN F1 ES
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Free Practice" tvg-name="11:05 Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
 
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="12:00 Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="12:00 Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="12:00 Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prixx Free Practice 1" tvg-name="12:00 Moto2 : Storbritanniens Grand Prixx Free Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", DAZN F1 ES
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 1" tvg-name="13:30 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", DAZN F1 ES
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTINF:-1 tvg-id="Formula 3 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="15:05 Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
 
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Practice 1" tvg-name="15:10 Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Practice 1" tvg-name="15:10 Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Practice 1" tvg-name="15:10 Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/25" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTINF:-1 tvg-id="Moto3 - Storbritanniens Grand Prixx Practice 1" tvg-name="15:10 Moto3 : Storbritanniens Grand Prixx Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", TNT Sports 2 UK
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sky Sport Mix DE
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-557.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-556.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", DAZN1 ES
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-445.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Canal+ Sport 360
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-464.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sport TV4 Portugal
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-289.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", ESPN Argentina
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-149.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Cosmote Sport 5 Greece
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-626.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Cytavision Sports 6
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-393.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
 
-#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Motorsport", Digi Sport 3 Romania
+#EXTINF:-1 tvg-id="MotoGP - Storbritanniens Grand Prix Practice 1" tvg-name="15:15 MotoGP : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 3 Romania
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-402.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", DAZN F1 ES
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTINF:-1 tvg-id="Formula 2 - Tag Heuer Monaco Grand Prix - Qualifying" tvg-name="16:00 Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
 
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Practice 1" tvg-name="16:00 Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Practice 1" tvg-name="16:00 Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Practice 1" tvg-name="16:00 Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTINF:-1 tvg-id="Moto2 - Storbritanniens Grand Prix Practice 1" tvg-name="16:00 Moto2 : Storbritanniens Grand Prix Practice 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-271.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", DAZN F1 ES
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-537.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTINF:-1 tvg-id="Formula 1 - Tag Heuer Monaco Grand Prix - Practice 2" tvg-name="17:00 Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-774.php
 
-#EXTINF:-1 tvg-id="IndyCar Series Season Coverage of the Pit Stop Challenge - IndyCar Series Season Coverage of the Pit Stop Challenge" tvg-name="20:30 IndyCar Series Season Coverage of the Pit Stop Challenge - 23/05/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/2024_Indianapolis_500_logo.svg/220px-2024_Indianapolis_500_logo.svg.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="IndyCar Series Season Coverage of the Pit Stop Challenge - IndyCar Series Season Coverage of the Pit Stop Challenge" tvg-name="20:30 IndyCar Series Season Coverage of the Pit Stop Challenge - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="Super League - Hapoel Tel Aviv vs Hapoel Jerusalem" tvg-name="14:15 Super League : Hapoel Tel Aviv vs Hapoel Jerusalem - 23/05/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Hapoel_Tel_Aviv_F.C.png" group-title="Basket", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="Super League - Hapoel Tel Aviv vs Hapoel Jerusalem" tvg-name="14:15 Super League : Hapoel Tel Aviv vs Hapoel Jerusalem - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Hapoel Tel Aviv_vs_Hapoel Jerusalem.png" group-title="Basket", Sportklub 4 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php
 
-#EXTINF:-1 tvg-id="Super League - Hapoel Tel Aviv vs Hapoel Jerusalem" tvg-name="14:15 Super League : Hapoel Tel Aviv vs Hapoel Jerusalem - 23/05/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Hapoel_Tel_Aviv_F.C.png" group-title="Basket", Sport 5 Israel
+#EXTINF:-1 tvg-id="Super League - Hapoel Tel Aviv vs Hapoel Jerusalem" tvg-name="14:15 Super League : Hapoel Tel Aviv vs Hapoel Jerusalem - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Hapoel Tel Aviv_vs_Hapoel Jerusalem.png" group-title="Basket", Sport 5 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Magenta Sport
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Magenta Sport
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Movistar Deportes Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Sport TV1 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Polsat Sport 3 Poland
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Polsat Sport 3 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-129.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Arena 1 Premium Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Sport Klub 1 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Nova Sports Prime Greece
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Nova Sports Prime Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-638.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", MAX Sport 2 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
 
-#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="https://www.freepnglogos.com/uploads/fenerbahce-logo-png/fenerbahce-spor-kulubu-1907-transparent-logo-png-0.png" group-title="Basket", Sport 5 Israel
+#EXTINF:-1 tvg-id="Euroleague - Fenerbahce Istanbul vs. Panathinaikos BC" tvg-name="17:00 Euroleague : Fenerbahce Istanbul vs. Panathinaikos BC - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Fenerbahce Istanbul_vs_Panathinaikos BC.png" group-title="Basket", Sport 5 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
 
-#EXTINF:-1 tvg-id="Austria Superliga - BBC Nord Dragonz vs. Oberwart Gunners" tvg-name="18:00 Austria Superliga : BBC Nord Dragonz vs. Oberwart Gunners - 23/05/25" tvg-logo="https://i0.wp.com/bbc-nord.at/wp-content/uploads/2022/01/bbcnord.png?ssl=1" group-title="Basket", ORF Sport Plus
+#EXTINF:-1 tvg-id="Austria Superliga - BBC Nord Dragonz vs. Oberwart Gunners" tvg-name="18:00 Austria Superliga : BBC Nord Dragonz vs. Oberwart Gunners - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BBC Nord Dragonz_vs_Oberwart Gunners.png" group-title="Basket", ORF Sport Plus
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-12.php
 
-#EXTINF:-1 tvg-id="Hungary NB I - Falco KC Szombathely vs. Szolnoki Olaj Kk" tvg-name="18:05 Hungary NB I : Falco KC Szombathely vs. Szolnoki Olaj Kk - 23/05/25" tvg-logo="https://www.olimpiadatododia.com.br/wp-content/uploads/2022/01/Falco_KC_logo.png" group-title="Basket", M4 Sport Hungary
+#EXTINF:-1 tvg-id="Hungary NB I - Falco KC Szombathely vs. Szolnoki Olaj Kk" tvg-name="18:05 Hungary NB I : Falco KC Szombathely vs. Szolnoki Olaj Kk - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Falco KC Szombathely_vs_Szolnoki Olaj Kk.png" group-title="Basket", M4 Sport Hungary
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-265.php
 
-#EXTINF:-1 tvg-id="Basketball 3x3 Pro Tour - Trogir" tvg-name="19:00 Basketball 3x3 Pro Tour: Trogir - 23/05/25" tvg-logo="https://www.guamsportsnetwork.com/wp-content/uploads/2019/08/FIBA-3x3-Basketball-logo.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="Basketball 3x3 Pro Tour - Trogir" tvg-name="19:00 Basketball 3x3 Pro Tour: Trogir - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
 
-#EXTINF:-1 tvg-id="National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1 - National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1" tvg-name="19:55 National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1 - 23/05/25" tvg-logo="https://espnpressroom.com/us/files/2022/05/NBAFINALSYTTV.png" group-title="Basket", RTP 2 Portugal
+#EXTINF:-1 tvg-id="National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1 - National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1" tvg-name="19:55 National Basketball Championship Betclic League Play Off - Semi-Finals - Game 1 - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", RTP 2 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-720.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/dh5P8miAETPv0Q1/olympiacos-piraeus-1987-1992-logo.png" group-title="Basket", Magenta Sport
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", Magenta Sport
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/yO2xx3qJiJ4xdRk/olympiacos-piraeus-1995-2001-logo.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", Movistar Deportes Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/yO2xx3qJiJ4xdRk/olympiacos-piraeus-1995-2001-logo.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", Arena 1 Premium Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/dh5P8miAETPv0Q1/olympiacos-piraeus-1987-1992-logo.png" group-title="Basket", Nova Sports Prime Greece
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", Nova Sports Prime Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-638.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/yO2xx3qJiJ4xdRk/olympiacos-piraeus-1995-2001-logo.png" group-title="Basket", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", Sport Klub 1 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/yO2xx3qJiJ4xdRk/olympiacos-piraeus-1995-2001-logo.png" group-title="Basket", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", MAX Sport 2 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/yO2xx3qJiJ4xdRk/olympiacos-piraeus-1995-2001-logo.png" group-title="Basket", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", Sport TV1 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
 
-#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/yO2xx3qJiJ4xdRk/olympiacos-piraeus-1995-2001-logo.png" group-title="Basket", Sport 5 Israel
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. AS Monaco" tvg-name="20:00 Euroleague : BC Olympiakos Piraeus vs. AS Monaco - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/BC Olympiakos Piraeus_vs_AS Monaco.png" group-title="Basket", Sport 5 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
 
-#EXTINF:-1 tvg-id="Spain Primera FEB - Gipuzkoa/ipuzkoa BC vs Movistar Estudiantes" tvg-name="20:25 Spain Primera FEB : Gipuzkoa/ipuzkoa BC vs Movistar Estudiantes - 23/05/25" tvg-logo="https://gipuzkoabasket.com/wp-content/uploads/2023/07/LOGO-GBC-300x300-1.png" group-title="Basket", Movistar Deportes 3 Spain
+#EXTINF:-1 tvg-id="Spain Primera FEB - Gipuzkoa/ipuzkoa BC vs Movistar Estudiantes" tvg-name="20:25 Spain Primera FEB : Gipuzkoa/ipuzkoa BC vs Movistar Estudiantes - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Gipuzkoa/ipuzkoa BC_vs_Movistar Estudiantes.png" group-title="Basket", Movistar Deportes 3 Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-526.php
 
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/01/Reyer-Venezia-Logo-Vector.svg-.png" group-title="Basket", Arena 2 Serbia
+#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Reyer Venezia_vs_Virtus Bologna.png" group-title="Basket", Arena 2 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-430.php
 
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/01/Reyer-Venezia-Logo-Vector.svg-.png" group-title="Basket", Arena Sport 2 Croatia
+#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Reyer Venezia_vs_Virtus Bologna.png" group-title="Basket", Arena Sport 2 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php
 
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/01/Reyer-Venezia-Logo-Vector.svg-.png" group-title="Basket", Cosmote Sport 8 Greece
+#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Reyer Venezia_vs_Virtus Bologna.png" group-title="Basket", Cosmote Sport 8 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-629.php
 
-#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/01/Reyer-Venezia-Logo-Vector.svg-.png" group-title="Basket", Sport 4 Israel
+#EXTINF:-1 tvg-id="Lega A - Reyer Venezia vs. Virtus Bologna" tvg-name="20:45 Lega A : Reyer Venezia vs. Virtus Bologna - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Reyer Venezia_vs_Virtus Bologna.png" group-title="Basket", Sport 4 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-143.php
 
-#EXTINF:-1 tvg-id="WNBA Basketball - Connecticut Sun vs Minnesota Lynx" tvg-name="01:30 WNBA Basketball : Connecticut Sun vs Minnesota Lynx - 23/05/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Connecticut_Sun_logo.svg/440px-Connecticut_Sun_logo.svg.png" group-title="Basket", ION USA
+#EXTINF:-1 tvg-id="WNBA Basketball - Connecticut Sun vs Minnesota Lynx" tvg-name="01:30 WNBA Basketball : Connecticut Sun vs Minnesota Lynx - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Connecticut Sun_vs_Minnesota Lynx.png" group-title="Basket", ION USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-325.php
 
-#EXTINF:-1 tvg-id="CEBL Basketball - Ottawa BlackJacks vs Montreal Alliance" tvg-name="02:00 CEBL Basketball : Ottawa BlackJacks vs Montreal Alliance - 23/05/25" tvg-logo="https://irp-cdn.multiscreensite.com/ef39452c/dms3rep/multi/OttawaBlackJacks_Primary_White%2BRedWordmark.png" group-title="Basket", TSN2
+#EXTINF:-1 tvg-id="CEBL Basketball - Ottawa BlackJacks vs Montreal Alliance" tvg-name="02:00 CEBL Basketball : Ottawa BlackJacks vs Montreal Alliance - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Ottawa BlackJacks_vs_Montreal Alliance.png" group-title="Basket", TSN2
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-112.php
 
-#EXTINF:-1 tvg-id="CEBL Basketball - Ottawa BlackJacks vs Montreal Alliance" tvg-name="02:00 CEBL Basketball : Ottawa BlackJacks vs Montreal Alliance - 23/05/25" tvg-logo="https://irp-cdn.multiscreensite.com/ef39452c/dms3rep/multi/OttawaBlackJacks_Primary_White%2BRedWordmark.png" group-title="Basket", RDS Info
+#EXTINF:-1 tvg-id="CEBL Basketball - Ottawa BlackJacks vs Montreal Alliance" tvg-name="02:00 CEBL Basketball : Ottawa BlackJacks vs Montreal Alliance - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Ottawa BlackJacks_vs_Montreal Alliance.png" group-title="Basket", RDS Info
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-841.php
 
-#EXTINF:-1 tvg-id="WNBA Basketball - Phoenix Mercury vs Seattle Storm" tvg-name="04:00 WNBA Basketball : Phoenix Mercury vs Seattle Storm - 23/05/25" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/phoenix-mercury-logo.png" group-title="Basket", ION USA
+#EXTINF:-1 tvg-id="WNBA Basketball - Phoenix Mercury vs Seattle Storm" tvg-name="04:00 WNBA Basketball : Phoenix Mercury vs Seattle Storm - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Phoenix Mercury_vs_Seattle Storm.png" group-title="Basket", ION USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-325.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Home Feed
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Home Feed
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Away Feed
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Away Feed
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", TNT Sports 1 UK
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", TNT Sports 1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", TNT USA
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", TNT USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-338.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", truTV USA
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", truTV USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-341.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", TSN3
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", TSN3
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-113.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", TSN4
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", TSN4
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-114.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Movistar Deportes Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Sport TV1 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", CANAL+ Sport Poland
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", CANAL+ Sport Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-48.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", beIN Sports 1 France
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", beIN Sports 1 France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", ESPN 1 NL
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", ESPN 1 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-379.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Cytavision Sports 6 Cyprus
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Cytavision Sports 6 Cyprus
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Arena 1 Premium Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Diema Sport 2 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-466.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Cosmote Sport 4 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Arena Sport 1 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", TV4 Sportkanalen
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", TV2 Sport X Denmark
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", TV2 Sport X Denmark
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
 
-#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2017/03/Indiana-Pacers-Logo-PNG-1024x1024.png" group-title="Basket", Sport 5 Israel
+#EXTINF:-1 tvg-id="NBA - Indiana Pacers vs New York Knicks" tvg-name="02:00 NBA : Indiana Pacers vs New York Knicks - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Basket", Sport 5 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", TNT Sports 3 UK
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 3 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", Rai 2 Italy
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Rai 2 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", EuroSport 1 Poland
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-57.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", EuroSport 1 Spain
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-524.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", EuroSport 1 France
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-772.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", Eurosport 1 SE
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Eurosport 1 SE
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-231.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", EuroSport 1 Italy
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", EuroSport 1 France
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-772.php
 
-#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Ciclismo", EuroSport 1 Greece
+#EXTINF:-1 tvg-id="Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km)" tvg-name="13:00 Giro d'Italia | Stage 13 | Multi-Screen Men | Rovigo – Vicenza (180km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-41.php
 
-#EXTINF:-1 tvg-id="Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km) - Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km)" tvg-name="14:30 Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km) - 23/05/25" tvg-logo="https://www.proximus.be/dam/cdn/sites/iportal/images/illustrations/logos/sports-competitions/sports-competitions-2209/Cycling/tour-burgos-logo-cycling-2209.png" group-title="Ciclismo", TNT Sports 4 UK
+#EXTINF:-1 tvg-id="Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km) - Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km)" tvg-name="14:30 Tour of Burgos | Stage 2 Women | Villalba de Duero - Roa de Duero (122km) - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 4 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-34.php
 
-#EXTINF:-1 tvg-id="Premier League Indoor Soccer Finals Game 2 - Nahalat Yitzhak vs Maccabi Netanya" tvg-name="12:05 Premier League Indoor Soccer Finals Game 2 : Nahalat Yitzhak vs Maccabi Netanya - 23/05/25" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Yitzhak-designstyle-i-love-m.png" group-title="Futsal", Sport 5 Israel
+#EXTINF:-1 tvg-id="Premier League Indoor Soccer Finals Game 2 - Nahalat Yitzhak vs Maccabi Netanya" tvg-name="12:05 Premier League Indoor Soccer Finals Game 2 : Nahalat Yitzhak vs Maccabi Netanya - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Nahalat Yitzhak_vs_Maccabi Netanya.png" group-title="Futsal", Sport 5 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
 
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - France vs Sweden" tvg-name="15:30 Women's Friendly tournament in Koszalin : France vs Sweden - 23/05/25" tvg-logo="https://www.pinclipart.com/picdir/big/138-1384988_logo-drapeau-france-png-clipart.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - France vs Sweden" tvg-name="15:30 Women's Friendly tournament in Koszalin : France vs Sweden - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/France_vs_Sweden.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
 
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Poland vs Bulgaria" tvg-name="18:30 Women's Friendly tournament in Koszalin : Poland vs Bulgaria - 23/05/25" tvg-logo="https://api.culture.pl/sites/default/files/users/mattdavies/eagle.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Poland vs Bulgaria" tvg-name="18:30 Women's Friendly tournament in Koszalin : Poland vs Bulgaria - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Poland_vs_Bulgaria.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
 
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Italy vs Netherlands" tvg-name="20:00 Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/25" tvg-logo="https://www.footballkitarchive.com/static/logos/K9tuhvwcM0fvMPN/italy-1952-1982-logo.png" group-title="Pallavolo", Rai Sport 1 Italy
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Italy vs Netherlands" tvg-name="20:00 Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/25" tvg-logo="/home/ubuntu/daddy/logos/Italy_vs_Netherlands.png" group-title="Pallavolo", Rai Sport 1 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
-#EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 1 - Palm Beach Live - AVP Beach Volleyball League Week 1 - Palm Beach Live" tvg-name="02:00 AVP Beach Volleyball League Week 1 - Palm Beach Live - 23/05/25" tvg-logo="https://avp.com/wp-content/uploads/AVP-BeachNationLogo-lock2b_Square-1.png" group-title="Pallavolo", CBS Sports Network USA
+#EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 1 - Palm Beach Live - AVP Beach Volleyball League Week 1 - Palm Beach Live" tvg-name="02:00 AVP Beach Volleyball League Week 1 - Palm Beach Live - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
