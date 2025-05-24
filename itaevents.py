@@ -953,56 +953,61 @@ def process_events():
 
                             # Check if channel should be included based on keywords
                             if should_include_channel(channelName, event_name, sport_key):
-                                # Process channel information
-                                if isinstance(channel, dict) and "channel_id" in channel:
-                                    channelID = f"{channel['channel_id']}"
-                                else:
-                                    # Generate a fallback ID
-                                    channelID = str(uuid.uuid4())
+                                try:
+                                    # Process channel information
+                                    if isinstance(channel, dict) and "channel_id" in channel:
+                                        channelID = f"{channel['channel_id']}"
+                                    else:
+                                        # Generate a fallback ID
+                                        channelID = str(uuid.uuid4())
 
-                                # Around line 353 where you access channel["channel_name"]
-                                if isinstance(channel, dict) and "channel_name" in channel:
-                                    channel_name_str = channel["channel_name"]
-                                else:
-                                    channel_name_str = str(channel)
-
-                                stream_url_dynamic = get_stream_link(channelID, event_details, channel_name_str)
-
-                                if stream_url_dynamic:
-                                    # Around line 361 where you access channel["channel_name"] again
+                                    # Around line 353 where you access channel["channel_name"]
                                     if isinstance(channel, dict) and "channel_name" in channel:
                                         channel_name_str = channel["channel_name"]
                                     else:
                                         channel_name_str = str(channel)
 
-                                    # Estrai l'orario dal formatted_date_time
-                                    time_only = time_str_cet if time_str_cet else "00:00"
+                                    stream_url_dynamic = get_stream_link(channelID, event_details, channel_name_str)
 
-                                    # Crea il nuovo formato per tvg-name con l'orario all'inizio e la data alla fine
-                                    tvg_name = f"{time_only} {event_details} - {day_num}/{month_num}/{year_short}"
+                                    if stream_url_dynamic:
+                                        # Around line 361 where you access channel["channel_name"] again
+                                        if isinstance(channel, dict) and "channel_name" in channel:
+                                            channel_name_str = channel["channel_name"]
+                                        else:
+                                            channel_name_str = str(channel)
 
-                                    # Get dynamic logo for this event
-                                    event_logo = get_dynamic_logo(game["event"])
+                                        # Estrai l'orario dal formatted_date_time
+                                        time_only = time_str_cet if time_str_cet else "00:00"
 
-                                    # Traduci il termine sportivo in italiano
-                                    italian_sport_key = translate_sport_to_italian(clean_sport_key)
+                                        # Crea il nuovo formato per tvg-name con l'orario all'inizio e la data alla fine
+                                        tvg_name = f"{time_only} {event_details} - {day_num}/{month_num}/{year_short}"
 
-                                    file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{italian_sport_key}", {channel_name_str}\n')
-                                    file.write(f"{PROXY}{stream_url_dynamic}\n\n")
+                                        # Get dynamic logo for this event
+                                        event_logo = get_dynamic_logo(game["event"])
 
-                                    processed_channels += 1
-                                    filtered_channels += 1
-                                else:
-                                    print(f"Failed to get stream URL for channel ID: {channelID}")
+                                        # Traduci il termine sportivo in italiano
+                                        italian_sport_key = translate_sport_to_italian(clean_sport_key)
+
+                                        file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{italian_sport_key}", {channel_name_str}\n')
+                                        file.write(f"{PROXY}{stream_url_dynamic}\n\n")
+
+                                        processed_channels += 1
+                                        filtered_channels += 1
+                                    else:
+                                        print(f"Failed to get stream URL for channel ID: {channelID}")
+                                
+                                except KeyError as e:
+                                    print(f"KeyError: {e} - Key may not exist in JSON structure")
+                                    continue
+                                except Exception as e:
+                                    print(f"Errore generale durante l'elaborazione del canale: {e}")
+                                    continue
                             else:
                                 print(f"Skipping channel (no keyword match): {clean_group_title(sport_key)} - {event_details} - {channelName}")
 
-                        except KeyError as e:
-                            print(f"KeyError: {e} - Key may not exist in JSON structure")
-                            continue
-                        except Exception as e:
-                            print(f"Errore generale durante l'elaborazione del canale: {e}")
-                            continue
+            except (KeyError, TypeError) as e:
+                print(f"Error processing day data: {e}")
+                continue
 
     # Print summary
     print(f"\n=== Processing Summary ===")
