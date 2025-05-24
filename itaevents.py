@@ -10,11 +10,12 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import re
-from urllib.parse import quote_plus  # Add this import
+from urllib.parse import quote_plus # Add this import
 import urllib.parse
 import io
 from PIL import Image, ImageDraw, ImageFont
 from dotenv import load_dotenv
+
 load_dotenv()
 
 PROXY = os.getenv("PROXY")
@@ -25,9 +26,6 @@ SKYSTR = os.getenv("SKYSTR")
 os.makedirs("logos", exist_ok=True)
 
 # Constants
-#REFERER = "forcedtoplay.xyz"
-#ORIGIN = "forcedtoplay.xyz"
-#HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
 NUM_CHANNELS = 10000
 DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "itaevents.m3u8"
@@ -45,69 +43,69 @@ EVENT_KEYWORDS = ["italy", "atp", "tennis", "basketball", "formula uno", "f1", "
 
 # Dizionario per traduzione termini sportivi inglesi in italiano
 SPORT_TRANSLATIONS = {
-    "soccer": "calcio",
-    "football": "football americano", 
-    "basketball": "basket",
-    "tennis": "tennis",
-    "swimming": "nuoto",
-    "athletics": "atletica",
-    "cycling": "ciclismo",
-    "golf": "golf",
-    "baseball": "baseball",
-    "rugby": "rugby",
-    "boxing": "boxe",
-    "wrestling": "lotta",
-    "volleyball": "pallavolo",
-    "hockey": "hockey",
-    "horse racing": "ippica",
-    "motor sports": "automobilismo",
-    "motorsports": "automobilismo",
-    "gymnastics": "ginnastica", 
-    "martial arts": "arti marziali",
-    "running": "corsa",
-    "ice hockey": "hockey su ghiaccio",
-    "field hockey": "hockey su prato",
-    "water polo": "pallanuoto",
-    "weight lifting": "sollevamento pesi",
-    "weightlifting": "sollevamento pesi",
-    "skiing": "sci",
-    "skating": "pattinaggio",
-    "ice skating": "pattinaggio su ghiaccio",
-    "fencing": "scherma",
-    "archery": "tiro con l'arco",
-    "climbing": "arrampicata",
-    "rowing": "canottaggio",
-    "sailing": "vela",
-    "surfing": "surf",
-    "fishing": "pesca",
-    "dancing": "danza",
-    "chess": "scacchi",
-    "snooker": "biliardo",
-    "billiards": "biliardo",
-    "darts": "freccette",
-    "badminton": "badminton",
-    "cricket": "cricket",
-    "aussie rules": "football australiano",
-    "australian football": "football australiano",
-    "cross country": "corsa campestre",
-    "biathlon": "biathlon",
-    "waterpolo": "pallanuoto",
-    "handball": "pallamano"
+"soccer": "calcio",
+"football": "football americano",
+"basketball": "basket",
+"tennis": "tennis",
+"swimming": "nuoto",
+"athletics": "atletica",
+"cycling": "ciclismo",
+"golf": "golf",
+"baseball": "baseball",
+"rugby": "rugby",
+"boxing": "boxe",
+"wrestling": "lotta",
+"volleyball": "pallavolo",
+"hockey": "hockey",
+"horse racing": "ippica",
+"motor sports": "automobilismo",
+"motorsports": "automobilismo",
+"gymnastics": "ginnastica",
+"martial arts": "arti marziali",
+"running": "corsa",
+"ice hockey": "hockey su ghiaccio",
+"field hockey": "hockey su prato",
+"water polo": "pallanuoto",
+"weight lifting": "sollevamento pesi",
+"weightlifting": "sollevamento pesi",
+"skiing": "sci",
+"skating": "pattinaggio",
+"ice skating": "pattinaggio su ghiaccio",
+"fencing": "scherma",
+"archery": "tiro con l'arco",
+"climbing": "arrampicata",
+"rowing": "canottaggio",
+"sailing": "vela",
+"surfing": "surf",
+"fishing": "pesca",
+"dancing": "danza",
+"chess": "scacchi",
+"snooker": "biliardo",
+"billiards": "biliardo",
+"darts": "freccette",
+"badminton": "badminton",
+"cricket": "cricket",
+"aussie rules": "football australiano",
+"australian football": "football australiano",
+"cross country": "corsa campestre",
+"biathlon": "biathlon",
+"waterpolo": "pallanuoto",
+"handball": "pallamano"
 }
 
 # Headers for requests
 headers = {
-    "Accept": "*/*",
-    "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,ru;q=0.5",
-    "Priority": "u=1, i",
-    "sec-ch-ua": '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
-    "Sec-Ch-UA-Mobile": "?0",
-    "Sec-Ch-UA-Platform": "Windows",
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Site": "same-origin",
-    "Sec-Fetch-Storage-Access": "active",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+"Accept": "*/*",
+"Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,ru;q=0.5",
+"Priority": "u=1, i",
+"sec-ch-ua": '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
+"Sec-Ch-UA-Mobile": "?0",
+"Sec-Ch-UA-Platform": "Windows",
+"Sec-Fetch-Dest": "empty",
+"Sec-Fetch-Mode": "cors",
+"Sec-Fetch-Site": "same-origin",
+"Sec-Fetch-Storage-Access": "active",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
 }
 
 # Remove existing M3U8 file if it exists
@@ -133,49 +131,18 @@ def translate_sport_to_italian(sport_key):
     """Traduce i termini sportivi inglesi in italiano"""
     # Pulisce il termine dai tag HTML
     clean_key = re.sub(r'<[^>]+>', '', sport_key).strip().lower()
-    
     # Cerca la traduzione nel dizionario
     if clean_key in SPORT_TRANSLATIONS:
         translated = SPORT_TRANSLATIONS[clean_key]
         # Mantieni la formattazione originale (maiuscole/minuscole)
         return translated.title()
-    
     # Se non trova traduzione, restituisce il termine originale pulito
     return clean_group_title(sport_key)
 
-def create_combined_logo(team1, team2, logo1_url, logo2_url):
-    try:
-        current_dir = os.path.dirname(os.path.abspath(__file__))
-        vs_path = os.path.join(current_dir, "vs.png")
-        output_path = os.path.join(current_dir, "logos", f"{team1}_vs_{team2}.png")
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        img1 = Image.open(io.BytesIO(requests.get(logo1_url, timeout=10).content)).convert('RGBA')
-        img2 = Image.open(io.BytesIO(requests.get(logo2_url, timeout=10).content)).convert('RGBA')
-        # Carica o crea VS
-        if os.path.exists(vs_path):
-            vs_img = Image.open(vs_path).convert('RGBA')
-        else:
-            vs_img = Image.new('RGBA', (100, 100), (255, 255, 255, 0))
-            draw = ImageDraw.Draw(vs_img)
-            draw.text((30, 30), "VS", fill=(255, 0, 0), font=ImageFont.load_default())
-        img1 = img1.resize((150, 150), Image.LANCZOS)
-        img2 = img2.resize((150, 150), Image.LANCZOS)
-        vs_img = vs_img.resize((100, 100), Image.LANCZOS)
-        combined = Image.new('RGBA', (300, 150), (255, 255, 255, 0))
-        combined.paste(img1, (0, 0))
-        combined.paste(img2, (150, 0))
-        combined.paste(vs_img, (100, 25), vs_img)
-        combined.save(output_path)
-        return output_path
-    except Exception as e:
-        print(f"Errore creazione logo combinato: {e}")
-        return logo1_url
-
-
 def search_logo_for_event(event_name):
-    """ 
-    Cerca un logo per l'evento specificato utilizzando un motore di ricerca 
-    Restituisce l'URL dell'immagine trovata o None se non trovata 
+    """
+    Cerca un logo per l'evento specificato utilizzando un motore di ricerca
+    Restituisce l'URL dell'immagine trovata o None se non trovata
     """
     try:
         # Pulizia nome evento
@@ -194,10 +161,8 @@ def search_logo_for_event(event_name):
         if teams and len(teams) == 2:
             team1 = teams[0].strip()
             team2 = teams[1].strip()
-            
             print(f"[🔍] Ricerca logo per Team 1: {team1}")
             logo1_url = search_team_logo(team1)
-            
             print(f"[🔍] Ricerca logo per Team 2: {team2}")
             logo2_url = search_team_logo(team2)
 
@@ -207,17 +172,20 @@ def search_logo_for_event(event_name):
                     # Crea percorso assoluto per vs.png
                     current_dir = os.path.dirname(os.path.abspath(__file__))
                     vs_path = os.path.join(current_dir, "vs.png")
-                    output_path = os.path.join(current_dir, "logos", f"{team1}_vs_{team2}.png")
+                    output_filename = f"logos/{team1}_vs_{team2}.png"
+                    output_path = os.path.join(current_dir, output_filename)
 
                     # Crea directory se non esiste
                     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
                     # Controllo cache (3 ore)
+                    current_time = time.time()
+                    three_hours_in_seconds = 3 * 60 * 60
+                    
                     if os.path.exists(output_path):
-                        file_age = time.time() - os.path.getmtime(output_path)
-                        if file_age <= 10800:  # 3 ore in secondi
-                            print(f"[✓] Utilizza immagine combinata in cache: {output_path}")
-                            
+                        file_age = current_time - os.path.getmtime(output_path)
+                        if file_age <= three_hours_in_seconds:
+                            print(f"[✓] Utilizzo immagine combinata esistente: {output_filename}")
                             # Carica le variabili d'ambiente per GitHub
                             NOMEREPO = os.getenv("NOMEREPO", "").strip()
                             NOMEGITHUB = os.getenv("NOMEGITHUB", "").strip()
@@ -229,21 +197,19 @@ def search_logo_for_event(event_name):
                                 print(f"[✓] URL GitHub generato per logo esistente: {github_raw_url}")
                                 return github_raw_url
                             else:
-                                # Altrimenti restituisci il percorso locale
                                 return output_path
 
-                    # Download loghi con verifica
                     # Headers universali per tutti i download
                     headers = {
                         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36',
                         'Accept': 'image/png,image/jpeg,image/svg+xml,image/*,*/*;q=0.8'
                     }
-                    
+
                     # Scarica i loghi
                     response1 = requests.get(logo1_url, headers=headers, timeout=10)
                     response1.raise_for_status()
                     img1 = Image.open(io.BytesIO(response1.content)).convert('RGBA')
-                    
+
                     response2 = requests.get(logo2_url, headers=headers, timeout=10)
                     response2.raise_for_status()
                     img2 = Image.open(io.BytesIO(response2.content)).convert('RGBA')
@@ -254,7 +220,10 @@ def search_logo_for_event(event_name):
                     else:
                         vs_img = Image.new('RGBA', (100, 100), (255, 255, 255, 0))
                         draw = ImageDraw.Draw(vs_img)
-                        font = ImageFont.load_default()
+                        try:
+                            font = ImageFont.truetype("arial.ttf", 40)
+                        except:
+                            font = ImageFont.load_default()
                         draw.text((30, 30), "VS", fill=(255, 0, 0), font=font)
 
                     # Ridimensionamento immagini
@@ -270,12 +239,12 @@ def search_logo_for_event(event_name):
 
                     # Salvataggio
                     combined.save(output_path, "PNG")
-                    print(f"[✓] Immagine combinata generata: {output_path}")
-                    
+                    print(f"[✓] Immagine combinata generata: {output_filename}")
+
                     # Carica le variabili d'ambiente per GitHub
                     NOMEREPO = os.getenv("NOMEREPO", "").strip()
                     NOMEGITHUB = os.getenv("NOMEGITHUB", "").strip()
-                    
+
                     # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                     if NOMEGITHUB and NOMEREPO:
                         relative_path = os.path.relpath(output_path, current_dir)
@@ -288,7 +257,7 @@ def search_logo_for_event(event_name):
 
                 except Exception as e:
                     print(f"[!] Errore creazione logo combinato: {str(e)}")
-                    return logo1_url  # Fallback al primo logo
+                    return logo1_url # Fallback al primo logo
 
             # Fallback se un logo non è disponibile
             return logo1_url or logo2_url
@@ -296,13 +265,13 @@ def search_logo_for_event(event_name):
         # Ricerca standard per eventi non divisi in squadre
         search_query = urllib.parse.quote(f"{clean_event_name} logo")
         search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square"
-        
+
         # Headers per la ricerca Bing
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36',
             'Accept': 'image/png,image/jpeg,image/svg+xml,image/*,*/*;q=0.8'
         }
-        
+
         response = requests.get(search_url, headers=headers, timeout=10)
         if response.status_code == 200:
             match = re.search(r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"', response.text)
@@ -314,8 +283,6 @@ def search_logo_for_event(event_name):
         print(f"[!] Errore nella ricerca del logo: {str(e)}")
         return None
 
-
-
 def search_team_logo(team_name):
     """
     Funzione dedicata alla ricerca del logo di una singola squadra
@@ -323,10 +290,9 @@ def search_team_logo(team_name):
     try:
         # Prepara la query di ricerca specifica per la squadra
         search_query = urllib.parse.quote(f"{team_name} logo")
-        
         # Utilizziamo l'API di Bing Image Search con parametri migliorati
         search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square&form=IRFLTR"
-        
+
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
@@ -334,19 +300,18 @@ def search_team_logo(team_name):
             "Cache-Control": "max-age=0",
             "Connection": "keep-alive"
         }
-        
+
         response = requests.get(search_url, headers=headers, timeout=10)
-        
         if response.status_code == 200:
             # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
             patterns = [
-                r'murl&quot;:&quot;(https?://[^&]+)&quot;',
+                r'murl":"(https?://[^&]+)"',
                 r'"murl":"(https?://[^"]+)"',
                 r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"',
                 r'<img[^>]+src="(https?://[^"]+\.(?:png|jpg|jpeg|svg))[^>]+class="mimg"',
-                r'<a[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
+                r'<div[^>]+class="iusc"[^>]+m=\'{"[^"]*":"[^"]*","[^"]*":"(https?://[^"]+)"'
             ]
-            
+
             for pattern in patterns:
                 matches = re.findall(pattern, response.text)
                 if matches and len(matches) > 0:
@@ -356,13 +321,12 @@ def search_team_logo(team_name):
                             return match
                     # Se non troviamo PNG o SVG, prendi il primo risultato
                     return matches[0]
-                    
+
     except Exception as e:
         print(f"[!] Errore nella ricerca del logo per '{team_name}': {e}")
-    
+
     # Se non troviamo nulla, restituiamo None
     return None
-
 
 def get_dynamic_logo(event_name):
     """
@@ -370,7 +334,6 @@ def get_dynamic_logo(event_name):
     """
     # Estrai i nomi delle squadre dall'evento per usarli come chiave di cache
     teams_match = re.search(r':\s*([^:]+?)\s+vs\s+([^:]+?)(?:\s+[-|]|$)', event_name, re.IGNORECASE)
-
     if not teams_match:
         # Try alternative format "Team1 - Team2"
         teams_match = re.search(r'([^:]+?)\s+-\s+([^:]+?)(?:\s+[-|]|$)', event_name, re.IGNORECASE)
@@ -384,37 +347,39 @@ def get_dynamic_logo(event_name):
         team2 = teams_match.group(2).strip()
         cache_key = f"{team1} vs {team2}"
 
-        # Check if we already have this specific match in LOGO_CACHE (from web scraping)
-        if cache_key in LOGO_CACHE:
-            print(f"Logo trovato in cache (web) per: {cache_key}")
-            return LOGO_CACHE[cache_key]
+    # Check if we already have this specific match in LOGO_CACHE (from web scraping)
+    if cache_key in LOGO_CACHE:
+        print(f"Logo trovato in cache (web) per: {cache_key}")
+        return LOGO_CACHE[cache_key]
 
-        # Check if we have this specific match in LOCAL_LOGO_CACHE (from local file)
-        load_local_logos() # Ensure local logos are loaded
+    # Check if we have this specific match in LOCAL_LOGO_CACHE (from local file)
+    load_local_logos() # Ensure local logos are loaded
 
-        # --- Nuova logica per cercare nomi squadre negli URL locali ---
-        if LOCAL_LOGO_CACHE and team1 and team2: # Ensure teams were extracted
-            # Normalize team names for local file lookup (replace spaces with hyphens)
-            team1_normalized_for_lookup = team1.lower().replace(" ", "-")
-            team2_normalized_for_lookup = team2.lower().replace(" ", "-")
-    
-            for logo_url in LOCAL_LOGO_CACHE:
-                logo_url_lower = logo_url.lower()
-                # Check if both normalized team names are in the URL (case-insensitive)
-                if team1_normalized_for_lookup in logo_url_lower and team2_normalized_for_lookup in logo_url_lower:
-                     print(f"Logo trovato nel file locale per: {cache_key} -> {logo_url}")
-                     # Add to main cache for future use
-                     if cache_key:
-                         LOGO_CACHE[cache_key] = logo_url
-                     return logo_url
-                # Check if at least one normalized team name is in the URL (partial match fallback)
-                elif team1_normalized_for_lookup in logo_url_lower or team2_normalized_for_lookup in logo_url_lower:
-                     print(f"Logo parziale trovato nel file locale per: {cache_key} -> {logo_url}")
-                     # Add to main cache for future use
-                     if cache_key:
-                         LOGO_CACHE[cache_key] = logo_url
-                     return logo_url
-        # --- Fine nuova logica ---
+    # --- Nuova logica per cercare nomi squadre negli URL locali ---
+    if LOCAL_LOGO_CACHE and team1 and team2: # Ensure teams were extracted
+        # Normalize team names for local file lookup (replace spaces with hyphens)
+        team1_normalized_for_lookup = team1.lower().replace(" ", "-")
+        team2_normalized_for_lookup = team2.lower().replace(" ", "-")
+
+        for logo_url in LOCAL_LOGO_CACHE:
+            logo_url_lower = logo_url.lower()
+            # Check if both normalized team names are in the URL (case-insensitive)
+            if team1_normalized_for_lookup in logo_url_lower and team2_normalized_for_lookup in logo_url_lower:
+                print(f"Logo trovato nel file locale per: {cache_key} -> {logo_url}")
+                # Add to main cache for future use
+                if cache_key:
+                    LOGO_CACHE[cache_key] = logo_url
+                return logo_url
+
+            # Check if at least one normalized team name is in the URL (partial match fallback)
+            elif team1_normalized_for_lookup in logo_url_lower or team2_normalized_for_lookup in logo_url_lower:
+                print(f"Logo parziale trovato nel file locale per: {cache_key} -> {logo_url}")
+                # Add to main cache for future use
+                if cache_key:
+                    LOGO_CACHE[cache_key] = logo_url
+                return logo_url
+
+    # --- Fine nuova logica ---
 
     # Verifica se l'evento è di Serie A o altre leghe supportate
     is_serie_a_or_other_leagues = any(league in event_name for league in ["Italy - Serie A", "La Liga", "Premier League", "Bundesliga", "Ligue 1"])
@@ -486,7 +451,6 @@ def get_dynamic_logo(event_name):
         }
 
         print(f"Cercando logo per {team1_normalized} vs {team2_normalized} su guardacalcio.{GUARCAL}...")
-
         response = requests.get(guardacalcio_url, headers=headers_guardacalcio, timeout=10)
         html_content = response.text
 
@@ -557,7 +521,6 @@ def get_dynamic_logo(event_name):
         }
 
         print(f"Cercando logo per {team1_normalized} vs {team2_normalized} su skystreaming.{SKYSTR}...")
-
         response = requests.get(skystreaming_url, headers=headers_skystreaming, timeout=10)
         html_content = response.text
 
@@ -606,7 +569,6 @@ def get_dynamic_logo(event_name):
         # Se non troviamo nulla nella pagina specifica, proviamo con la homepage come fallback
         if skystreaming_url != skystreaming_base_url:
             print(f"Nessun logo trovato nella pagina specifica, cercando nella homepage di skystreaming.{SKYSTR}...")
-
             response = requests.get(skystreaming_base_url, headers=headers_skystreaming, timeout=10)
             html_content = response.text
 
@@ -663,6 +625,7 @@ def get_dynamic_logo(event_name):
         if cache_key:
             LOGO_CACHE[cache_key] = LOGO
         return LOGO
+
         # --- Fine logica di scraping web (originale) ---
 
     except Exception as e:
@@ -678,10 +641,10 @@ def get_dynamic_logo(event_name):
                 return logo_result
         except:
             pass
+
         import traceback
         traceback.print_exc()
         return LOGO
-
 
 def generate_unique_ids(count, seed=42):
     random.seed(seed)
@@ -693,38 +656,33 @@ def loadJSON(filepath):
 
 def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id} - {event_name} on {channel_name}...")
-    
+
     # Verifica se è un canale Tennis Stream
     if channel_name and "Tennis Stream" in channel_name:
         print(f"Canale Tennis Stream rilevato, utilizzo link fisso per: {event_name}")
         return "https://daddylive.dad/embed/stream-576.php"
-    
+
     # Restituisci direttamente l'URL senza fare richieste HTTP
     return f"https://daddylive.dad/embed/stream-{dlhd_id}.php"
-
 
 def clean_group_title(sport_key):
     """Clean the sport key to create a proper group-title"""
     # More robust HTML tag removal
     import re
     clean_key = re.sub(r'<[^>]+>', '', sport_key).strip()
-
     # If empty after cleaning, return original key
     if not clean_key:
         clean_key = sport_key.strip()
-
     # Convert to title case to standardize
     return clean_key.title()
 
 def should_include_channel(channel_name, event_name, sport_key):
     """Check if channel should be included based on keywords"""
     combined_text = (channel_name + " " + event_name + " " + sport_key).lower()
-
     # Check if any keyword is present in the combined text
     for keyword in EVENT_KEYWORDS:
         if keyword.lower() in combined_text:
             return True
-
     return False
 
 def process_events():
@@ -752,7 +710,7 @@ def process_events():
     for day, day_data in dadjson.items():
         try:
             for sport_key, sport_events in day_data.items():
-                clean_sport_key = sport_key.replace("</span>", "").replace("<span>", "").strip()
+                clean_sport_key = sport_key.replace("<span>", "").replace("</span>", "").strip()
                 if clean_sport_key not in category_stats:
                     category_stats[clean_sport_key] = 0
                 category_stats[clean_sport_key] += len(sport_events)
@@ -773,239 +731,250 @@ def process_events():
     with open(M3U8_OUTPUT_FILE, 'w', encoding='utf-8') as file:
         file.write('#EXTM3U\n')
 
-    # Second pass to process events
-    for day, day_data in dadjson.items():
-        try:
-            for sport_key, sport_events in day_data.items():
-                clean_sport_key = sport_key.replace("</span>", "").replace("<span>", "").strip()
-                total_events += len(sport_events)
+        # Second pass to process events
+        for day, day_data in dadjson.items():
+            try:
+                for sport_key, sport_events in day_data.items():
+                    clean_sport_key = sport_key.replace("<span>", "").replace("</span>", "").strip()
+                    total_events += len(sport_events)
 
-                # Skip only exact category matches
-                if clean_sport_key in excluded_categories:
-                    skipped_events += len(sport_events)
-                    continue
+                    # Skip only exact category matches
+                    if clean_sport_key in excluded_categories:
+                        skipped_events += len(sport_events)
+                        continue
 
-                for game in sport_events:
-                    for channel in game.get("channels", []):
-                        try:
-                            # Clean and format day
-                            clean_day = day.replace(" - Schedule Time UK GMT", "")
-                            # Rimuovi completamente i suffissi ordinali (st, nd, rd, th)
-                            clean_day = clean_day.replace("st ", " ").replace("nd ", " ").replace("rd ", " ").replace("th ", " ")
-                            # Rimuovi anche i suffissi attaccati al numero (1st, 2nd, 3rd, etc.)
-                            import re
-                            clean_day = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', clean_day)
+                    for game in sport_events:
+                        for channel in game.get("channels", []):
+                            try:
+                                # Clean and format day
+                                clean_day = day.replace(" - Schedule Time UK GMT", "")
 
-                            print(f"Original day: '{day}'")
-                            print(f"Clean day after processing: '{clean_day}'")
+                                # Rimuovi completamente i suffissi ordinali (st, nd, rd, th)
+                                clean_day = clean_day.replace("st ", " ").replace("nd ", " ").replace("rd ", " ").replace("th ", " ")
 
-                            day_parts = clean_day.split()
-                            print(f"Day parts: {day_parts}")  # Debug per vedere i componenti della data
+                                # Rimuovi anche i suffissi attaccati al numero (1st, 2nd, 3rd, etc.)
+                                import re
+                                clean_day = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', clean_day)
 
-                            # Handle various date formats with better validation
-                            day_num = None
-                            month_name = None
-                            year = None
+                                print(f"Original day: '{day}'")
+                                print(f"Clean day after processing: '{clean_day}'")
 
-                            if len(day_parts) >= 4:  # Standard format: Weekday Month Day Year
-                                weekday = day_parts[0]
-                                # Verifica se il secondo elemento contiene lettere (è il mese) o numeri (è il giorno)
-                                if any(c.isalpha() for c in day_parts[1]):
-                                    # Formato: Weekday Month Day Year
-                                    month_name = day_parts[1]
-                                    day_num = day_parts[2]
-                                elif any(c.isalpha() for c in day_parts[2]):
-                                    # Formato: Weekday Day Month Year
-                                    day_num = day_parts[1]
-                                    month_name = day_parts[2]
+                                day_parts = clean_day.split()
+                                print(f"Day parts: {day_parts}") # Debug per vedere i componenti della data
+
+                                # Handle various date formats with better validation
+                                day_num = None
+                                month_name = None
+                                year = None
+
+                                if len(day_parts) >= 4: # Standard format: Weekday Month Day Year
+                                    weekday = day_parts[0]
+
+                                    # Verifica se il secondo elemento contiene lettere (è il mese) o numeri (è il giorno)
+                                    if any(c.isalpha() for c in day_parts[1]):
+                                        # Formato: Weekday Month Day Year
+                                        month_name = day_parts[1]
+                                        day_num = day_parts[2]
+                                    elif any(c.isalpha() for c in day_parts[2]):
+                                        # Formato: Weekday Day Month Year
+                                        day_num = day_parts[1]
+                                        month_name = day_parts[2]
+                                    else:
+                                        # Se non riusciamo a determinare, assumiamo il formato più comune
+                                        day_num = day_parts[1]
+                                        month_name = day_parts[2]
+
+                                    year = day_parts[3]
+                                    print(f"Parsed date components: weekday={weekday}, day={day_num}, month={month_name}, year={year}")
+
+                                elif len(day_parts) == 3:
+                                    # Format could be: "Weekday Day Year" (missing month) or "Day Month Year"
+                                    if day_parts[0].lower() in ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]:
+                                        # It's "Weekday Day Year" format (missing month)
+                                        day_num = day_parts[1]
+                                        # Get current month for Rome timezone
+                                        rome_tz = pytz.timezone('Europe/Rome')
+                                        current_month = datetime.datetime.now(rome_tz).strftime('%B')
+                                        month_name = current_month
+                                        year = day_parts[2]
+                                    else:
+                                        # Assume Day Month Year
+                                        day_num = day_parts[0]
+                                        month_name = day_parts[1]
+                                        year = day_parts[2]
                                 else:
-                                    # Se non riusciamo a determinare, assumiamo il formato più comune
-                                    day_num = day_parts[1]
-                                    month_name = day_parts[2]
-                                year = day_parts[3]
-                                print(f"Parsed date components: weekday={weekday}, day={day_num}, month={month_name}, year={year}")
-                            elif len(day_parts) == 3:
-                                # Format could be: "Weekday Day Year" (missing month) or "Day Month Year"
-                                if day_parts[0].lower() in ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]:
-                                    # It's "Weekday Day Year" format (missing month)
-                                    day_num = day_parts[1]
-                                    # Get current month for Rome timezone
+                                    # Use current date from Rome timezone
+                                    rome_tz = pytz.timezone('Europe/Rome')
+                                    now = datetime.datetime.now(rome_tz)
+                                    day_num = now.strftime('%d')
+                                    month_name = now.strftime('%B')
+                                    year = now.strftime('%Y')
+                                    print(f"Using current Rome date for: {clean_day}")
+
+                                # Validate day_num - ensure it's a number and extract only digits
+                                if day_num:
+                                    # Extract only digits from day_num
+                                    day_num_digits = re.sub(r'[^0-9]', '', str(day_num))
+                                    if day_num_digits:
+                                        day_num = day_num_digits
+                                    else:
+                                        # If no digits found, use current day
+                                        rome_tz = pytz.timezone('Europe/Rome')
+                                        day_num = datetime.datetime.now(rome_tz).strftime('%d')
+                                        print(f"Warning: Invalid day number '{day_num}', using current day: {day_num}")
+                                else:
+                                    # If day_num is None, use current day
+                                    rome_tz = pytz.timezone('Europe/Rome')
+                                    day_num = datetime.datetime.now(rome_tz).strftime('%d')
+                                    print(f"Warning: Missing day number, using current day: {day_num}")
+
+                                # Get time from game data
+                                time_str = game.get("time", "00:00")
+
+                                # Converti l'orario da UK a CET (aggiungi 2 ore invece di 1)
+                                time_parts = time_str.split(":")
+                                if len(time_parts) == 2:
+                                    hour = int(time_parts[0])
+                                    minute = time_parts[1]
+
+                                    # Aggiungi due ore all'orario UK
+                                    hour_cet = (hour + 2) % 24
+
+                                    # Assicura che l'ora abbia due cifre
+                                    hour_cet_str = f"{hour_cet:02d}"
+
+                                    # Nuovo time_str con orario CET
+                                    time_str_cet = f"{hour_cet_str}:{minute}"
+                                else:
+                                    # Se il formato dell'orario non è corretto, mantieni l'originale
+                                    time_str_cet = time_str
+
+                                # Convert month name to number
+                                month_map = {
+                                    "January": "01", "February": "02", "March": "03", "April": "04",
+                                    "May": "05", "June": "06", "July": "07", "August": "08",
+                                    "September": "09", "October": "10", "November": "11", "December": "12"
+                                }
+
+                                # Aggiungi controllo per il mese
+                                if not month_name or month_name not in month_map:
+                                    print(f"Warning: Invalid month name '{month_name}', using current month")
                                     rome_tz = pytz.timezone('Europe/Rome')
                                     current_month = datetime.datetime.now(rome_tz).strftime('%B')
                                     month_name = current_month
-                                    year = day_parts[2]
-                                else:
-                                    # Assume Day Month Year
-                                    day_num = day_parts[0]
-                                    month_name = day_parts[1]
-                                    year = day_parts[2]
-                            else:
-                                # Use current date from Rome timezone
-                                rome_tz = pytz.timezone('Europe/Rome')
-                                now = datetime.datetime.now(rome_tz)
-                                day_num = now.strftime('%d')
-                                month_name = now.strftime('%B')
-                                year = now.strftime('%Y')
-                                print(f"Using current Rome date for: {clean_day}")
 
-                            # Validate day_num - ensure it's a number and extract only digits
-                            if day_num:
-                                # Extract only digits from day_num
-                                day_num_digits = re.sub(r'[^0-9]', '', str(day_num))
-                                if day_num_digits:
-                                    day_num = day_num_digits
-                                else:
-                                    # If no digits found, use current day
-                                    rome_tz = pytz.timezone('Europe/Rome')
-                                    day_num = datetime.datetime.now(rome_tz).strftime('%d')
-                                    print(f"Warning: Invalid day number '{day_num}', using current day: {day_num}")
-                            else:
-                                # If day_num is None, use current day
-                                rome_tz = pytz.timezone('Europe/Rome')
-                                day_num = datetime.datetime.now(rome_tz).strftime('%d')
-                                print(f"Warning: Missing day number, using current day: {day_num}")
-
-                            # Get time from game data
-                            time_str = game.get("time", "00:00")
-
-                            # Converti l'orario da UK a CET (aggiungi 2 ore invece di 1)
-                            time_parts = time_str.split(":")
-                            if len(time_parts) == 2:
-                                hour = int(time_parts[0])
-                                minute = time_parts[1]
-                                # Aggiungi due ore all'orario UK
-                                hour_cet = (hour + 2) % 24
-                                # Assicura che l'ora abbia due cifre
-                                hour_cet_str = f"{hour_cet:02d}"
-                                # Nuovo time_str con orario CET
-                                time_str_cet = f"{hour_cet_str}:{minute}"
-                            else:
-                                # Se il formato dell'orario non è corretto, mantieni l'originale
-                                time_str_cet = time_str
-
-                            # Convert month name to number
-                            month_map = {
-                                "January": "01", "February": "02", "March": "03", "April": "04",
-                                "May": "05", "June": "06", "July": "07", "August": "08",
-                                "September": "09", "October": "10", "November": "11", "December": "12"
-                            }
-
-                            # Aggiungi controllo per il mese
-                            if not month_name or month_name not in month_map:
-                                print(f"Warning: Invalid month name '{month_name}', using current month")
-                                rome_tz = pytz.timezone('Europe/Rome')
-                                current_month = datetime.datetime.now(rome_tz).strftime('%B')
-                                month_name = current_month
-
-                            month_num = month_map.get(month_name, "01")  # Default to January if not found
-
-                            # Ensure day has leading zero if needed
-                            if len(str(day_num)) == 1:
-                                day_num = f"0{day_num}"
-
-                            # Create formatted date time
-                            year_short = str(year)[-2:]  # Extract last two digits of year
-                            formatted_date_time = f"{day_num}/{month_num}/{year_short} - {time_str_cet}"
-
-                            # Also create proper datetime objects for EPG
-                            # Make sure we're using clean numbers for the date components
-                            try:
-                                # Ensure all date components are valid
-                                if not day_num or day_num == "":
-                                    rome_tz = pytz.timezone('Europe/Rome')
-                                    day_num = datetime.datetime.now(rome_tz).strftime('%d')
-                                    print(f"Using current day as fallback: {day_num}")
-
-                                if not month_num or month_num == "":
-                                    month_num = "01"  # Default to January
-                                    print(f"Using January as fallback month")
-
-                                if not year or year == "":
-                                    rome_tz = pytz.timezone('Europe/Rome')
-                                    year = datetime.datetime.now(rome_tz).strftime('%Y')
-                                    print(f"Using current year as fallback: {year}")
-
-                                if not time_str or time_str == "":
-                                    time_str = "00:00"
-                                    print(f"Using 00:00 as fallback time")
-
-                                # Ensure day_num has proper format (1-31)
-                                try:
-                                    day_int = int(day_num)
-                                    if day_int < 1 or day_int > 31:
-                                        day_num = "01"  # Default to first day of month
-                                        print(f"Day number out of range, using 01 as fallback")
-                                except ValueError:
-                                    day_num = "01"  # Default to first day of month
-                                    print(f"Invalid day number format, using 01 as fallback")
+                                month_num = month_map.get(month_name, "01") # Default to January if not found
 
                                 # Ensure day has leading zero if needed
                                 if len(str(day_num)) == 1:
                                     day_num = f"0{day_num}"
 
-                                date_str = f"{year}-{month_num}-{day_num} {time_str}:00"
-                                print(f"Attempting to parse date: '{date_str}'")
-                                start_date_utc = datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+                                # Create formatted date time
+                                year_short = str(year)[-2:] # Extract last two digits of year
+                                formatted_date_time = f"{day_num}/{month_num}/{year_short} - {time_str_cet}"
 
-                                # Convert to Amsterdam timezone
-                                amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
-                                start_date_amsterdam = start_date_utc.replace(tzinfo=pytz.UTC).astimezone(amsterdam_timezone)
+                                # Also create proper datetime objects for EPG
+                                # Make sure we're using clean numbers for the date components
+                                try:
+                                    # Ensure all date components are valid
+                                    if not day_num or day_num == "":
+                                        rome_tz = pytz.timezone('Europe/Rome')
+                                        day_num = datetime.datetime.now(rome_tz).strftime('%d')
+                                        print(f"Using current day as fallback: {day_num}")
 
-                                # Format for EPG
-                                mStartTime = start_date_amsterdam.strftime("%Y%m%d%H%M%S")
-                                mStopTime = (start_date_amsterdam + datetime.timedelta(days=2)).strftime("%Y%m%d%H%M%S")
-                            except ValueError as e:
-                                # Definisci date_str qui se non è già definita
-                                error_msg = str(e)
-                                if 'date_str' not in locals():
-                                    date_str = f"Error with: {year}-{month_num}-{day_num} {time_str}:00"
+                                    if not month_num or month_num == "":
+                                        month_num = "01" # Default to January
+                                        print(f"Using January as fallback month")
 
-                                print(f"Date parsing error: {error_msg} for date string '{date_str}'")
-                                # Use current time as fallback
-                                amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
-                                now = datetime.datetime.now(amsterdam_timezone)
-                                mStartTime = now.strftime("%Y%m%d%H%M%S")
-                                mStopTime = (now + datetime.timedelta(days=2)).strftime("%Y%m%d%H%M%S")
+                                    if not year or year == "":
+                                        rome_tz = pytz.timezone('Europe/Rome')
+                                        year = datetime.datetime.now(rome_tz).strftime('%Y')
+                                        print(f"Using current year as fallback: {year}")
 
-                            # Build channel name with new date format
-                            if isinstance(channel, dict) and "channel_name" in channel:
-                                channelName = formatted_date_time + "  " + channel["channel_name"]
-                            else:
-                                channelName = formatted_date_time + "  " + str(channel)
+                                    if not time_str or time_str == "":
+                                        time_str = "00:00"
+                                        print(f"Using 00:00 as fallback time")
 
-                            # Extract event name for the tvg-id
-                            event_name = game["event"].split(":")[0].strip() if ":" in game["event"] else game["event"].strip()
-                            event_details = game["event"]  # Keep the full event details for tvg-name
+                                    # Ensure day_num has proper format (1-31)
+                                    try:
+                                        day_int = int(day_num)
+                                        if day_int < 1 or day_int > 31:
+                                            day_num = "01" # Default to first day of month
+                                            print(f"Day number out of range, using 01 as fallback")
+                                    except ValueError:
+                                        day_num = "01" # Default to first day of month
+                                        print(f"Invalid day number format, using 01 as fallback")
 
-                        except Exception as e:
-                            print(f"Error processing date '{day}': {e}")
-                            print(f"Game time: {game.get('time', 'No time found')}")
-                            continue
+                                    # Ensure day has leading zero if needed
+                                    if len(str(day_num)) == 1:
+                                        day_num = f"0{day_num}"
 
-                        # Check if channel should be included based on keywords
-                        if should_include_channel(channelName, event_name, sport_key):
-                            # Process channel information
-                            if isinstance(channel, dict) and "channel_id" in channel:
-                                channelID = f"{channel['channel_id']}"
-                            else:
-                                # Generate a fallback ID
-                                channelID = str(uuid.uuid4())
+                                    date_str = f"{year}-{month_num}-{day_num} {time_str}:00"
+                                    print(f"Attempting to parse date: '{date_str}'")
 
-                            # Around line 353 where you access channel["channel_name"]
-                            if isinstance(channel, dict) and "channel_name" in channel:
-                                channel_name_str = channel["channel_name"]
-                            else:
-                                channel_name_str = str(channel)
-                            stream_url_dynamic = get_stream_link(channelID, event_details, channel_name_str)
+                                    start_date_utc = datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
 
-                            if stream_url_dynamic:
-                                # Around line 361 where you access channel["channel_name"] again
+                                    # Convert to Amsterdam timezone
+                                    amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
+                                    start_date_amsterdam = start_date_utc.replace(tzinfo=pytz.UTC).astimezone(amsterdam_timezone)
+
+                                    # Format for EPG
+                                    mStartTime = start_date_amsterdam.strftime("%Y%m%d%H%M%S")
+                                    mStopTime = (start_date_amsterdam + datetime.timedelta(days=2)).strftime("%Y%m%d%H%M%S")
+
+                                except ValueError as e:
+                                    # Definisci date_str qui se non è già definita
+                                    error_msg = str(e)
+                                    if 'date_str' not in locals():
+                                        date_str = f"Error with: {year}-{month_num}-{day_num} {time_str}:00"
+
+                                    print(f"Date parsing error: {error_msg} for date string '{date_str}'")
+
+                                    # Use current time as fallback
+                                    amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
+                                    now = datetime.datetime.now(amsterdam_timezone)
+                                    mStartTime = now.strftime("%Y%m%d%H%M%S")
+                                    mStopTime = (now + datetime.timedelta(days=2)).strftime("%Y%m%d%H%M%S")
+
+                                # Build channel name with new date format
+                                if isinstance(channel, dict) and "channel_name" in channel:
+                                    channelName = formatted_date_time + " " + channel["channel_name"]
+                                else:
+                                    channelName = formatted_date_time + " " + str(channel)
+
+                                # Extract event name for the tvg-id
+                                event_name = game["event"].split(":")[0].strip() if ":" in game["event"] else game["event"].strip()
+                                event_details = game["event"] # Keep the full event details for tvg-name
+
+                            except Exception as e:
+                                print(f"Error processing date '{day}': {e}")
+                                print(f"Game time: {game.get('time', 'No time found')}")
+                                continue
+
+                            # Check if channel should be included based on keywords
+                            if should_include_channel(channelName, event_name, sport_key):
+                                # Process channel information
+                                if isinstance(channel, dict) and "channel_id" in channel:
+                                    channelID = f"{channel['channel_id']}"
+                                else:
+                                    # Generate a fallback ID
+                                    channelID = str(uuid.uuid4())
+
+                                # Around line 353 where you access channel["channel_name"]
                                 if isinstance(channel, dict) and "channel_name" in channel:
                                     channel_name_str = channel["channel_name"]
                                 else:
                                     channel_name_str = str(channel)
 
-                                with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
+                                stream_url_dynamic = get_stream_link(channelID, event_details, channel_name_str)
+
+                                if stream_url_dynamic:
+                                    # Around line 361 where you access channel["channel_name"] again
+                                    if isinstance(channel, dict) and "channel_name" in channel:
+                                        channel_name_str = channel["channel_name"]
+                                    else:
+                                        channel_name_str = str(channel)
+
                                     # Estrai l'orario dal formatted_date_time
                                     time_only = time_str_cet if time_str_cet else "00:00"
 
@@ -1017,18 +986,19 @@ def process_events():
 
                                     # Traduci il termine sportivo in italiano
                                     italian_sport_key = translate_sport_to_italian(clean_sport_key)
+
                                     file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{italian_sport_key}", {channel_name_str}\n')
                                     file.write(f"{PROXY}{stream_url_dynamic}\n\n")
 
-                                processed_channels += 1
-                                filtered_channels += 1
+                                    processed_channels += 1
+                                    filtered_channels += 1
+                                else:
+                                    print(f"Failed to get stream URL for channel ID: {channelID}")
                             else:
-                                print(f"Failed to get stream URL for channel ID: {channelID}")
-                        else:
-                            print(f"Skipping channel (no keyword match): {clean_group_title(sport_key)} - {event_details} - {channelName}")
+                                print(f"Skipping channel (no keyword match): {clean_group_title(sport_key)} - {event_details} - {channelName}")
 
-        except KeyError as e:
-            print(f"KeyError: {e} - Key may not exist in JSON structure")
+                            except KeyError as e:
+                                print(f"KeyError: {e} - Key may not exist in JSON structure")
 
     # Print summary
     print(f"\n=== Processing Summary ===")
