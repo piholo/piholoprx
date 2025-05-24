@@ -172,24 +172,20 @@ def search_logo_for_event(event_name):
                     # Crea percorso assoluto per vs.png
                     current_dir = os.path.dirname(os.path.abspath(__file__))
                     vs_path = os.path.join(current_dir, "vs.png")
-                    output_filename = f"logos/{team1}_vs_{team2}.png"
-                    output_path = os.path.join(current_dir, output_filename)
+                    output_path = os.path.join(current_dir, "logos", f"{team1}_vs_{team2}.png")
 
                     # Crea directory se non esiste
                     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
                     # Controllo cache (3 ore)
-                    current_time = time.time()
-                    three_hours_in_seconds = 3 * 60 * 60
-                    
                     if os.path.exists(output_path):
-                        file_age = current_time - os.path.getmtime(output_path)
-                        if file_age <= three_hours_in_seconds:
-                            print(f"[✓] Utilizzo immagine combinata esistente: {output_filename}")
+                        file_age = time.time() - os.path.getmtime(output_path)
+                        if file_age <= 10800: # 3 ore in secondi
+                            print(f"[✓] Utilizza immagine combinata in cache: {output_path}")
                             # Carica le variabili d'ambiente per GitHub
                             NOMEREPO = os.getenv("NOMEREPO", "").strip()
                             NOMEGITHUB = os.getenv("NOMEGITHUB", "").strip()
-                            
+
                             # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                             if NOMEGITHUB and NOMEREPO:
                                 relative_path = os.path.relpath(output_path, current_dir)
@@ -197,6 +193,7 @@ def search_logo_for_event(event_name):
                                 print(f"[✓] URL GitHub generato per logo esistente: {github_raw_url}")
                                 return github_raw_url
                             else:
+                                # Altrimenti restituisci il percorso locale
                                 return output_path
 
                     # Headers universali per tutti i download
@@ -206,11 +203,11 @@ def search_logo_for_event(event_name):
                     }
 
                     # Scarica i loghi
-                    response1 = requests.get(logo1_url, headers=headers, timeout=10)
+                    response1 = requests.get(logo1_url, headers=headers, timeout=10, verify=False)
                     response1.raise_for_status()
                     img1 = Image.open(io.BytesIO(response1.content)).convert('RGBA')
 
-                    response2 = requests.get(logo2_url, headers=headers, timeout=10)
+                    response2 = requests.get(logo2_url, headers=headers, timeout=10, verify=False)
                     response2.raise_for_status()
                     img2 = Image.open(io.BytesIO(response2.content)).convert('RGBA')
 
@@ -220,10 +217,7 @@ def search_logo_for_event(event_name):
                     else:
                         vs_img = Image.new('RGBA', (100, 100), (255, 255, 255, 0))
                         draw = ImageDraw.Draw(vs_img)
-                        try:
-                            font = ImageFont.truetype("arial.ttf", 40)
-                        except:
-                            font = ImageFont.load_default()
+                        font = ImageFont.load_default()
                         draw.text((30, 30), "VS", fill=(255, 0, 0), font=font)
 
                     # Ridimensionamento immagini
@@ -239,7 +233,7 @@ def search_logo_for_event(event_name):
 
                     # Salvataggio
                     combined.save(output_path, "PNG")
-                    print(f"[✓] Immagine combinata generata: {output_filename}")
+                    print(f"[✓] Immagine combinata generata: {output_path}")
 
                     # Carica le variabili d'ambiente per GitHub
                     NOMEREPO = os.getenv("NOMEREPO", "").strip()
@@ -272,7 +266,7 @@ def search_logo_for_event(event_name):
             'Accept': 'image/png,image/jpeg,image/svg+xml,image/*,*/*;q=0.8'
         }
 
-        response = requests.get(search_url, headers=headers, timeout=10)
+        response = requests.get(search_url, headers=headers, timeout=10, verify=False)
         if response.status_code == 200:
             match = re.search(r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"', response.text)
             return match.group(1) if match else None
@@ -301,7 +295,7 @@ def search_team_logo(team_name):
             "Connection": "keep-alive"
         }
 
-        response = requests.get(search_url, headers=headers, timeout=10)
+        response = requests.get(search_url, headers=headers, timeout=10, verify=False)
         if response.status_code == 200:
             # Metodo 1: Cerca pattern per murl (URL dell'immagine media)
             patterns = [
@@ -327,6 +321,7 @@ def search_team_logo(team_name):
 
     # Se non troviamo nulla, restituiamo None
     return None
+
 
 def get_dynamic_logo(event_name):
     """
@@ -441,25 +436,25 @@ def get_dynamic_logo(event_name):
 
     print(f"Squadre normalizzate: '{team1_normalized}' vs '{team2_normalized}'")
 
-    try:
-        # --- Inizio logica di scraping web (originale) ---
-        # First try to fetch logos from guardacalcio.{GUARCAL}
-        guardacalcio_url = f"https://guardacalcio.{GUARCAL}/partite-streaming.html"
-        headers_guardacalcio = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
-        }
+        try:
+            # --- Inizio logica di scraping web (originale) ---
+            # First try to fetch logos from guardacalcio.{GUARCAL}
+            guardacalcio_url = f"https://guardacalcio.{GUARCAL}/partite-streaming.html"
+            headers_guardacalcio = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+            }
 
-        print(f"Cercando logo per {team1_normalized} vs {team2_normalized} su guardacalcio.{GUARCAL}...")
-        response = requests.get(guardacalcio_url, headers=headers_guardacalcio, timeout=10)
-        html_content = response.text
+            print(f"Cercando logo per {team1_normalized} vs {team2_normalized} su guardacalcio.{GUARCAL}...")
+            response = requests.get(guardacalcio_url, headers=headers_guardacalcio, timeout=10, verify=False)
+            html_content = response.text
 
-        # Parse with BeautifulSoup
-        soup = BeautifulSoup(html_content, 'html.parser')
+            # Parse with BeautifulSoup
+            soup = BeautifulSoup(html_content, 'html.parser')
 
-        # Cerca tutte le immagini nella pagina
-        img_tags = soup.find_all('img')
-        print(f"Trovate {len(img_tags)} immagini su guardacalcio.{GUARCAL}")
+            # Cerca tutte le immagini nella pagina
+            img_tags = soup.find_all('img')
+            print(f"Trovate {len(img_tags)} immagini su guardacalcio.{GUARCAL}")
 
         # Cerca immagini che contengono i nomi delle squadre nel src o nell'alt
         for img in img_tags:
@@ -520,9 +515,9 @@ def get_dynamic_logo(event_name):
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
         }
 
-        print(f"Cercando logo per {team1_normalized} vs {team2_normalized} su skystreaming.{SKYSTR}...")
-        response = requests.get(skystreaming_url, headers=headers_skystreaming, timeout=10)
-        html_content = response.text
+            print(f"Cercando logo per {team1_normalized} vs {team2_normalized} su skystreaming.{SKYSTR}...")
+            response = requests.get(skystreaming_url, headers=headers_skystreaming, timeout=10, verify=False)
+            html_content = response.text
 
         # Parse with BeautifulSoup
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -566,11 +561,11 @@ def get_dynamic_logo(event_name):
                                 LOGO_CACHE[cache_key] = logo_url
                             return logo_url
 
-        # Se non troviamo nulla nella pagina specifica, proviamo con la homepage come fallback
-        if skystreaming_url != skystreaming_base_url:
-            print(f"Nessun logo trovato nella pagina specifica, cercando nella homepage di skystreaming.{SKYSTR}...")
-            response = requests.get(skystreaming_base_url, headers=headers_skystreaming, timeout=10)
-            html_content = response.text
+            # Se non troviamo nulla nella pagina specifica, proviamo con la homepage come fallback
+            if skystreaming_url != skystreaming_base_url:
+                print(f"Nessun logo trovato nella pagina specifica, cercando nella homepage di skystreaming.{SKYSTR}...")
+                response = requests.get(skystreaming_base_url, headers=headers_skystreaming, timeout=10, verify=False)
+                html_content = response.text
 
             # Parse with BeautifulSoup
             soup = BeautifulSoup(html_content, 'html.parser')
