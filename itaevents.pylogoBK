@@ -173,7 +173,7 @@ def create_combined_logo(team1, team2, logo1_url, logo2_url):
         combined.paste(img2, (150, 0))
         combined.paste(vs_img, (100, 25), vs_img)
         combined.save(output_path)
-        return output_path
+        return get_github_logo_url(output_path)
     except Exception as e:
         print(f"Errore creazione logo combinato: {e}")
         return logo1_url
