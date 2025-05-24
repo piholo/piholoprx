@@ -997,8 +997,12 @@ def process_events():
                             else:
                                 print(f"Skipping channel (no keyword match): {clean_group_title(sport_key)} - {event_details} - {channelName}")
 
-                            except KeyError as e:
-                                print(f"KeyError: {e} - Key may not exist in JSON structure")
+                        except KeyError as e:
+                            print(f"KeyError: {e} - Key may not exist in JSON structure")
+                            continue
+                        except Exception as e:
+                            print(f"Errore generale durante l'elaborazione del canale: {e}")
+                            continue
 
     # Print summary
     print(f"\n=== Processing Summary ===")
