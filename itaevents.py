@@ -224,7 +224,7 @@ def search_logo_for_event(event_name):
                         file_age = time.time() - os.path.getmtime(output_path)
                         if file_age <= 10800:  # 3 ore in secondi
                             print(f"[✓] Utilizza immagine combinata in cache: {output_path}")
-                            return output_path
+                            return get_github_logo_url(output_path)
 
                     # Download loghi con verifica
                     # Headers universali per tutti i download
