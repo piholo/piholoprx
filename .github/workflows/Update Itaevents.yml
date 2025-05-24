@@ -34,6 +34,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install beautifulsoup4 playwright bs4 lxml
           pip install python-dotenv
+          pip install PIL
           playwright install chromium
           pip install chardet
 
