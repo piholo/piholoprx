@@ -311,7 +311,7 @@ def search_team_logo(team_name):
             "Connection": "keep-alive"
         }
 
-        response = requests.get(search_url, headers=headers, timeout=10, verify=False)
+        response = requests.get(search_url, headers=headers, timeout=10)
         if response.status_code == 200:
             patterns = [
                 r'murl":"(https?://[^&]+)"',
