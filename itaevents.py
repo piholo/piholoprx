@@ -140,10 +140,12 @@ def search_logo_for_event(event_name):
     Restituisce l'URL dell'immagine trovata o None se non trovata
     """
     try:
+        # Pulizia nome evento
         clean_event_name = re.sub(r'\s*\(\d{1,2}:\d{2}\)\s*$', '', event_name)
         if ':' in clean_event_name:
             clean_event_name = clean_event_name.split(':', 1)[1].strip()
 
+        # Identificazione squadre
         teams = None
         separators = [" vs ", " VS ", " vs. ", " VS. "]
         for sep in separators:
@@ -159,88 +161,129 @@ def search_logo_for_event(event_name):
             print(f"[🔍] Ricerca logo per Team 2: {team2}")
             logo2_url = search_team_logo(team2)
 
+            # Se abbiamo trovato entrambi i loghi, creiamo un'immagine combinata
             if logo1_url and logo2_url:
                 try:
-                    current_dir = os.path.dirname(os.path.abspath(__file__))
-                    vs_path = os.path.join(current_dir, "vs.png")
-                    output_path = os.path.join(current_dir, "logos", f"{team1}_vs_{team2}.png")
+                    from os.path import exists, getmtime
+                    
+                    # Crea la cartella logos se non esiste
+                    logos_dir = "logos"
+                    os.makedirs(logos_dir, exist_ok=True)
 
-                    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+                    # Controllo cache (3 ore) - ESATTAMENTE come in lista.py
+                    current_time = time.time()
+                    three_hours_in_seconds = 3 * 60 * 60
+                    output_filename = f"logos/{team1}_vs_{team2}.png"
 
-                    if os.path.exists(output_path):
-                        file_age = time.time() - os.path.getmtime(output_path)
-                        if file_age <= 10800:
-                            print(f"[✓] Utilizza immagine combinata in cache: {output_path}")
+                    if exists(output_filename):
+                        file_age = current_time - os.path.getmtime(output_filename)
+                        if file_age <= three_hours_in_seconds:
+                            print(f"[✓] Utilizzo immagine combinata esistente: {output_filename}")
+                            # Carica le variabili d'ambiente per GitHub
                             NOMEREPO = os.getenv("NOMEREPO", "").strip()
                             NOMEGITHUB = os.getenv("NOMEGITHUB", "").strip()
-
+                            
+                            # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                             if NOMEGITHUB and NOMEREPO:
-                                relative_path = os.path.relpath(output_path, current_dir)
-                                github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{relative_path}"
+                                github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{output_filename}"
                                 print(f"[✓] URL GitHub generato per logo esistente: {github_raw_url}")
                                 return github_raw_url
                             else:
-                                return output_path
+                                # Altrimenti restituisci il percorso locale
+                                return output_filename
 
-                    headers = {
-                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36',
-                        'Accept': 'image/png,image/jpeg,image/svg+xml,image/*,*/*;q=0.8'
-                    }
+                    # Scarica i loghi - METODO DA lista.py
+                    response1 = requests.get(logo1_url, timeout=10)
+                    img1 = Image.open(io.BytesIO(response1.content))
 
-                    response1 = requests.get(logo1_url, headers=headers, timeout=10, verify=False)
-                    response1.raise_for_status()
-                    img1 = Image.open(io.BytesIO(response1.content)).convert('RGBA')
+                    response2 = requests.get(logo2_url, timeout=10)
+                    img2 = Image.open(io.BytesIO(response2.content))
 
-                    response2 = requests.get(logo2_url, headers=headers, timeout=10, verify=False)
-                    response2.raise_for_status()
-                    img2 = Image.open(io.BytesIO(response2.content)).convert('RGBA')
-
-                    if os.path.exists(vs_path):
-                        vs_img = Image.open(vs_path).convert('RGBA')
+                    # Carica l'immagine VS (assicurati che esista nella directory corrente)
+                    vs_path = "vs.png"
+                    if exists(vs_path):
+                        img_vs = Image.open(vs_path)
+                        # Converti l'immagine VS in modalità RGBA se non lo è già
+                        if img_vs.mode != 'RGBA':
+                            img_vs = img_vs.convert('RGBA')
                     else:
-                        vs_img = Image.new('RGBA', (100, 100), (255, 255, 255, 0))
-                        draw = ImageDraw.Draw(vs_img)
-                        font = ImageFont.load_default()
+                        # Crea un'immagine di testo "VS" se il file non esiste
+                        img_vs = Image.new('RGBA', (100, 100), (255, 255, 255, 0))
+                        from PIL import ImageDraw, ImageFont
+                        draw = ImageDraw.Draw(img_vs)
+                        try:
+                            font = ImageFont.truetype("arial.ttf", 40)
+                        except:
+                            font = ImageFont.load_default()
                         draw.text((30, 30), "VS", fill=(255, 0, 0), font=font)
 
-                    img1 = img1.resize((150, 150), Image.LANCZOS)
-                    img2 = img2.resize((150, 150), Image.LANCZOS)
-                    vs_img = vs_img.resize((100, 100), Image.LANCZOS)
+                    # Ridimensiona le immagini a dimensioni uniformi
+                    size = (150, 150)
+                    img1 = img1.resize(size)
+                    img2 = img2.resize(size)
+                    img_vs = img_vs.resize((100, 100))
 
-                    combined = Image.new('RGBA', (300, 150), (255, 255, 255, 0))
+                    # Assicurati che tutte le immagini siano in modalità RGBA per supportare la trasparenza
+                    if img1.mode != 'RGBA':
+                        img1 = img1.convert('RGBA')
+                    if img2.mode != 'RGBA':
+                        img2 = img2.convert('RGBA')
+
+                    # Crea una nuova immagine con spazio per entrambi i loghi e il VS
+                    combined_width = 300
+                    combined = Image.new('RGBA', (combined_width, 150), (255, 255, 255, 0))
+
+                    # Posiziona le immagini con il VS sovrapposto al centro
+                    # Posiziona il primo logo a sinistra
                     combined.paste(img1, (0, 0), img1)
-                    combined.paste(img2, (150, 0), img2)
-                    combined.paste(vs_img, (100, 25), vs_img)
+                    # Posiziona il secondo logo a destra
+                    combined.paste(img2, (combined_width - 150, 0), img2)
+                    # Posiziona il VS al centro, sovrapposto ai due loghi
+                    vs_x = (combined_width - 100) // 2
 
-                    combined.save(output_path, "PNG")
-                    print(f"[✓] Immagine combinata generata: {output_path}")
+                    # Crea una copia dell'immagine combinata prima di sovrapporre il VS
+                    combined_with_vs = combined.copy()
+                    combined_with_vs.paste(img_vs, (vs_x, 25), img_vs)
+                    # Usa l'immagine con VS sovrapposto
+                    combined = combined_with_vs
 
+                    # Salva l'immagine combinata
+                    os.makedirs(os.path.dirname(output_filename), exist_ok=True)
+                    combined.save(output_filename)
+                    print(f"[✓] Immagine combinata creata: {output_filename}")
+
+                    # Carica le variabili d'ambiente per GitHub
                     NOMEREPO = os.getenv("NOMEREPO", "").strip()
                     NOMEGITHUB = os.getenv("NOMEGITHUB", "").strip()
 
+                    # Se le variabili GitHub sono disponibili, restituisci l'URL raw di GitHub
                     if NOMEGITHUB and NOMEREPO:
-                        relative_path = os.path.relpath(output_path, current_dir)
-                        github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{relative_path}"
+                        github_raw_url = f"https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/main/{output_filename}"
                         print(f"[✓] URL GitHub generato: {github_raw_url}")
                         return github_raw_url
                     else:
-                        return output_path
+                        # Altrimenti restituisci il percorso locale
+                        return output_filename
 
                 except Exception as e:
-                    print(f"[!] Errore creazione logo combinato: {str(e)}")
+                    print(f"[!] Errore nella creazione dell'immagine combinata: {e}")
+                    # Se fallisce, restituisci solo il primo logo trovato
                     return logo1_url
 
+            # Se non abbiamo trovato entrambi i loghi, restituisci quello che abbiamo
             return logo1_url or logo2_url
 
+        # Ricerca standard per eventi non divisi in squadre
         search_query = urllib.parse.quote(f"{clean_event_name} logo")
         search_url = f"https://www.bing.com/images/search?q={search_query}&qft=+filterui:photo-transparent+filterui:aspect-square"
 
+        # Headers per la ricerca Bing
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36',
             'Accept': 'image/png,image/jpeg,image/svg+xml,image/*,*/*;q=0.8'
         }
 
-        response = requests.get(search_url, headers=headers, timeout=10, verify=False)
+        response = requests.get(search_url, headers=headers, timeout=10)
         if response.status_code == 200:
             match = re.search(r'"contentUrl":"(https?://[^"]+\.(?:png|jpg|jpeg|svg))"', response.text)
             return match.group(1) if match else None
@@ -250,6 +293,7 @@ def search_logo_for_event(event_name):
     except Exception as e:
         print(f"[!] Errore nella ricerca del logo: {str(e)}")
         return None
+
 
 def search_team_logo(team_name):
     """
