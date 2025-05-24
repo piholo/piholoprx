@@ -38,7 +38,7 @@ LOGO_CACHE = {}
 LOCAL_LOGO_CACHE = []
 LOCAL_LOGO_FILE = "guardacalcio_image_links.txt"
 
-EVENT_KEYWORDS = ["italy", "atp", "tennis", "basketball", "formula uno", "f1", "motogp", "moto gp", "volley", "serie a", "serie b", "serie c", "uefa champions", "uefa europa", "conference league", "coppa italia", "premier league", "bundesliga", "la liga", "ligue 1", "ciclismo", "cycling"]
+EVENT_KEYWORDS = ["italy", "atp", "tennis", "basketball", "formula 1", "formula uno", "f1", "motogp", "moto gp", "volley", "serie a", "serie b", "serie c", "uefa champions", "uefa europa", "conference league", "coppa italia", "premier league", "bundesliga", "la liga", "ligue 1", "ciclismo", "cycling"]
 
 # Dizionario per traduzione termini sportivi inglesi in italiano
 SPORT_TRANSLATIONS = {
