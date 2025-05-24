@@ -265,7 +265,7 @@ def search_logo_for_event(event_name):
                     # Salvataggio
                     combined.save(output_path, "PNG")
                     print(f"[✓] Immagine combinata generata: {output_path}")
-                    return output_path
+                    return get_github_logo_url(output_path)
 
                 except Exception as e:
                     print(f"[!] Errore creazione logo combinato: {str(e)}")
