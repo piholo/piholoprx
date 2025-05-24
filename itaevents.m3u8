@@ -1,44 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ukraine Premier League - Chornomorets vs Oleksandria" tvg-name="12:00 Ukraine Premier League : Chornomorets vs Oleksandria - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Chornomorets_vs_Oleksandria.png" group-title="Calcio", UPLTV
+#EXTINF:-1 tvg-id="Ukraine Premier League - Chornomorets vs Oleksandria" tvg-name="12:00 Ukraine Premier League : Chornomorets vs Oleksandria - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UPLTV
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9000.php
 
-#EXTINF:-1 tvg-id="Ukraine Premier League - Rukh Vynnyky vs Shakhtar Donetsk" tvg-name="14:30 Ukraine Premier League : Rukh Vynnyky vs Shakhtar Donetsk - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Rukh Vynnyky_vs_Shakhtar Donetsk.png" group-title="Calcio", UPLTV
+#EXTINF:-1 tvg-id="Ukraine Premier League - Rukh Vynnyky vs Shakhtar Donetsk" tvg-name="14:30 Ukraine Premier League : Rukh Vynnyky vs Shakhtar Donetsk - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UPLTV
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9000.php
 
 #EXTINF:-1 tvg-id="Russia - Premier League - Simulcast" tvg-name="15:30 Russia - Premier League : Simulcast - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH TV Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-127.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Zenit vs Akhmat Grozny" tvg-name="15:30 Russia - Premier League : Zenit vs Akhmat Grozny - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Zenit_vs_Akhmat Grozny.png" group-title="Calcio", MATCH! Strana Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Zenit vs Akhmat Grozny" tvg-name="15:30 Russia - Premier League : Zenit vs Akhmat Grozny - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Strana Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Zenit vs Akhmat Grozny" tvg-name="15:30 Russia - Premier League : Zenit vs Akhmat Grozny - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Zenit_vs_Akhmat Grozny.png" group-title="Calcio", Arena Sport 7 Serbia
+#EXTINF:-1 tvg-id="Russia - Premier League - Zenit vs Akhmat Grozny" tvg-name="15:30 Russia - Premier League : Zenit vs Akhmat Grozny - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 7 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-942.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Spartak Moskva vs Khimki" tvg-name="15:30 Russia - Premier League : Spartak Moskva vs Khimki - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Spartak Moskva_vs_Khimki.png" group-title="Calcio", MATCH! Futbol 1 Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Spartak Moskva vs Khimki" tvg-name="15:30 Russia - Premier League : Spartak Moskva vs Khimki - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 1 Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-136.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Krasnodar_vs_Dinamo Moskva.png" group-title="Calcio", Match Premier Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-573.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Krasnodar_vs_Dinamo Moskva.png" group-title="Calcio", Arena Sport 6 Serbia
+#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 6 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-941.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Krasnodar_vs_Dinamo Moskva.png" group-title="Calcio", Arena Sport 3 Croatia
+#EXTINF:-1 tvg-id="Russia - Premier League - Krasnodar vs Dinamo Moskva" tvg-name="15:30 Russia - Premier League : Krasnodar vs Dinamo Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-434.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Fakel vs Krylya Sovetov" tvg-name="15:30 Russia - Premier League : Fakel vs Krylya Sovetov - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Fakel_vs_Krylya Sovetov.png" group-title="Calcio", MATCH! Arena Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Fakel vs Krylya Sovetov" tvg-name="15:30 Russia - Premier League : Fakel vs Krylya Sovetov - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Arena Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Rubin Kazan' vs Orenburg" tvg-name="15:30 Russia - Premier League : Rubin Kazan' vs Orenburg - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Rubin Kazan'_vs_Orenburg.png" group-title="Calcio", MATCH! Igra Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Rubin Kazan' vs Orenburg" tvg-name="15:30 Russia - Premier League : Rubin Kazan' vs Orenburg - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Igra Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Dynamo Makhachkala vs Rostov" tvg-name="15:30 Russia - Premier League : Dynamo Makhachkala vs Rostov - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Dynamo Makhachkala_vs_Rostov.png" group-title="Calcio", МАТЧ! БОЕЦ Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Dynamo Makhachkala vs Rostov" tvg-name="15:30 Russia - Premier League : Dynamo Makhachkala vs Rostov - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", МАТЧ! БОЕЦ Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-395.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Akron vs Lokomotiv Moskva" tvg-name="15:30 Russia - Premier League : Akron vs Lokomotiv Moskva - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Akron_vs_Lokomotiv Moskva.png" group-title="Calcio", MATCH! Futbol 3 Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Akron vs Lokomotiv Moskva" tvg-name="15:30 Russia - Premier League : Akron vs Lokomotiv Moskva - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 3 Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-138.php
 
-#EXTINF:-1 tvg-id="Russia - Premier League - CSKA Moskva vs Olimpiyets" tvg-name="15:30 Russia - Premier League : CSKA Moskva vs Olimpiyets - 24/05/25" tvg-logo="https://logodetimes.com/times/cska-moscou/logo-cska-moscou-4096.png" group-title="Calcio", MATCH! Futbol 2 Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - CSKA Moskva vs Olimpiyets" tvg-name="15:30 Russia - Premier League : CSKA Moskva vs Olimpiyets - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 2 Russia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-137.php
 
 #EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Sunderland" tvg-name="16:00 England - Championship : Sheffield United vs Sunderland - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076897_sheffield-united-x-sunderland.png" group-title="Calcio", Sky Sports Premier League DE
@@ -101,25 +101,25 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076548_real-madrid-x-real-sociedad.png" group-title="Calcio", SuperSport Laliga
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
 
-#EXTINF:-1 tvg-id="Ukraine Premier League - Dynamo Kyiv vs Kolos Kovalivka" tvg-name="17:00 Ukraine Premier League : Dynamo Kyiv vs Kolos Kovalivka - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Dynamo Kyiv_vs_Kolos Kovalivka.png" group-title="Calcio", UPLTV
+#EXTINF:-1 tvg-id="Ukraine Premier League - Dynamo Kyiv vs Kolos Kovalivka" tvg-name="17:00 Ukraine Premier League : Dynamo Kyiv vs Kolos Kovalivka - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UPLTV
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9000.php
 
 #EXTINF:-1 tvg-id="Austria - Football Bundesliga - Simulcast" tvg-name="17:00 Austria - Football Bundesliga : Simulcast - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 1
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-559.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Salzburg vs Rapid Wien" tvg-name="17:00 Austria - Football Bundesliga : Salzburg vs Rapid Wien - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Salzburg_vs_Rapid Wien.png" group-title="Calcio", Sky Sport Austria 4
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Salzburg vs Rapid Wien" tvg-name="17:00 Austria - Football Bundesliga : Salzburg vs Rapid Wien - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 4
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-9.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Salzburg vs Rapid Wien" tvg-name="17:00 Austria - Football Bundesliga : Salzburg vs Rapid Wien - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Salzburg_vs_Rapid Wien.png" group-title="Calcio", 5 Live Israel
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Salzburg vs Rapid Wien" tvg-name="17:00 Austria - Football Bundesliga : Salzburg vs Rapid Wien - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Live Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-146.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Wien vs Blau-Weiß Linz" tvg-name="17:00 Austria - Football Bundesliga : Austria Wien vs Blau-Weiß Linz - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Austria Wien_vs_Blau-Weiß Linz.png" group-title="Calcio", Sky Sport Austria 3
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Austria Wien vs Blau-Weiß Linz" tvg-name="17:00 Austria - Football Bundesliga : Austria Wien vs Blau-Weiß Linz - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 3
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Sturm Graz vs Wolfsberger AC" tvg-name="17:00 Austria - Football Bundesliga : Sturm Graz vs Wolfsberger AC - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Sturm Graz_vs_Wolfsberger AC.png" group-title="Calcio", Sky Sport Austria 2
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Sturm Graz vs Wolfsberger AC" tvg-name="17:00 Austria - Football Bundesliga : Sturm Graz vs Wolfsberger AC - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 2
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-11.php
 
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Sturm Graz vs Wolfsberger AC" tvg-name="17:00 Austria - Football Bundesliga : Sturm Graz vs Wolfsberger AC - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Sturm Graz_vs_Wolfsberger AC.png" group-title="Calcio", Arena Sport 4 Serbia
+#EXTINF:-1 tvg-id="Austria - Football Bundesliga - Sturm Graz vs Wolfsberger AC" tvg-name="17:00 Austria - Football Bundesliga : Sturm Graz vs Wolfsberger AC - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-581.php
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Bologna vs Genoa" tvg-name="18:00 Italy - Serie A : Bologna vs Genoa - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076474_bologna-x-genoa.png" group-title="Calcio", DAZN Zona IT
@@ -257,7 +257,7 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Las Palmas" tvg-name="18:30 Spain - La Liga : Espanyol vs Las Palmas - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076462_espanyol-x-las-palmas.png" group-title="Calcio", SuperSport Laliga
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
 
-#EXTINF:-1 tvg-id="Canadian Premier League - HFX Wanderers vs Atlético Ottawa" tvg-name="20:00 Canadian Premier League : HFX Wanderers vs Atlético Ottawa - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/HFX Wanderers_vs_Atlético Ottawa.png" group-title="Calcio", TSN3
+#EXTINF:-1 tvg-id="Canadian Premier League - HFX Wanderers vs Atlético Ottawa" tvg-name="20:00 Canadian Premier League : HFX Wanderers vs Atlético Ottawa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN3
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-113.php
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Calcio", DAZN Zona IT
@@ -305,43 +305,43 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="Italy - Serie A - Milan vs Monza" tvg-name="20:45 Italy - Serie A : Milan vs Monza - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076304_milan-x-monza.png" group-title="Calcio", ESPN2 Brazil
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-82.php
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Athletico-PR vs Athletic Club" tvg-name="21:00 Brazil - Serie B : Athletico-PR vs Athletic Club - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Athletico-PR_vs_Athletic Club.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Athletico-PR vs Athletic Club" tvg-name="21:00 Brazil - Serie B : Athletico-PR vs Athletic Club - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", M+ LALIGA TV 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M+ LALIGA TV 2
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-8.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", ESPN+ USA
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN+ USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-151.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", DAZN Eleven 2 Portugal
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 2 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", CANAL+ Sport Poland
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CANAL+ Sport Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-48.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", beIN Sports MAX 4 France
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 4 France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-494.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", SportsMax
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SportsMax
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-152.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", Nova Sports 1 Greece
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 1 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-631.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", TV4 Sport Live 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sport Live 2
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-704.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", Arena Sport 3 Serbia
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-431.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", Digi Sport 4 Romania
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 4 Romania
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-403.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Malaysia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-714.php
 
-#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://skystreaming.stream/content/thumbs/cb306a9cd5bf8e0eabbb3fe78f73f564." group-title="Calcio", SuperSport Variety 2
+#EXTINF:-1 tvg-id="Spain - La Liga - Deportivo Alavés vs Osasuna" tvg-name="21:00 Spain - La Liga : Deportivo Alavés vs Osasuna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 2
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-417.php
 
 #EXTINF:-1 tvg-id="Spain - La Liga - Getafe vs Celta de Vigo" tvg-name="21:00 Spain - La Liga : Getafe vs Celta de Vigo - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076249_getafe-x-celta-de-vigo.png" group-title="Calcio", M+ LALIGA TV
@@ -428,28 +428,28 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="Spain - La Liga - Rayo Vallecano vs Mallorca" tvg-name="21:00 Spain - La Liga : Rayo Vallecano vs Mallorca - 24/05/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-05/1748076259_rayo-vallecano-x-mallorca.png" group-title="Calcio", SuperSport Laliga
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-415.php
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Forge" tvg-name="23:00 Canadian Premier League : Pacific vs Forge - 24/05/25" tvg-logo="https://logocharts.com/wp-content/uploads/2021/12/Pacific-Life-Logo-1600x1600.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Forge" tvg-name="23:00 Canadian Premier League : Pacific vs Forge - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-756.php
 
-#EXTINF:-1 tvg-id="Rublev A. vs Cobolli F. - Rublev A. vs Cobolli F." tvg-name="14:30 Rublev A. vs Cobolli F. - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Rublev A._vs_Cobolli F..png" group-title="Atp - Hamburg", Tennis Stream
+#EXTINF:-1 tvg-id="Rublev A. vs Cobolli F. - Rublev A. vs Cobolli F." tvg-name="14:30 Rublev A. vs Cobolli F. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Hamburg", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Hurkacz H._vs_Djokovic N..png" group-title="Atp - Geneva", Tennis Stream
+#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Geneva", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Hurkacz H._vs_Djokovic N..png" group-title="Atp - Geneva", Tennis Stream
+#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Geneva", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Hurkacz H._vs_Djokovic N..png" group-title="Atp - Geneva", Tennis Stream
+#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Geneva", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="Samsonova L. vs Rybakina E. - Samsonova L. vs Rybakina E." tvg-name="14:00 Samsonova L. vs Rybakina E. - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Samsonova L._vs_Rybakina E..png" group-title="Wta - Strasbourg", Tennis Stream
+#EXTINF:-1 tvg-id="Samsonova L. vs Rybakina E. - Samsonova L. vs Rybakina E." tvg-name="14:00 Samsonova L. vs Rybakina E. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Strasbourg", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="Samsonova L. vs Rybakina E. - Samsonova L. vs Rybakina E." tvg-name="14:00 Samsonova L. vs Rybakina E. - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Samsonova L._vs_Rybakina E..png" group-title="Wta - Strasbourg", Tennis Stream
+#EXTINF:-1 tvg-id="Samsonova L. vs Rybakina E. - Samsonova L. vs Rybakina E." tvg-name="14:00 Samsonova L. vs Rybakina E. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Strasbourg", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="Joint M. vs Cristian J. - Joint M. vs Cristian J." tvg-name="14:00 Joint M. vs Cristian J. - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Joint M._vs_Cristian J..png" group-title="Wta - Rabat", Tennis Stream
+#EXTINF:-1 tvg-id="Joint M. vs Cristian J. - Joint M. vs Cristian J." tvg-name="14:00 Joint M. vs Cristian J. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Rabat", Tennis Stream
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
 #EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
@@ -722,190 +722,190 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="FIBA 3x3 World Tour - Marseille, Dan 1" tvg-name="13:00 FIBA 3x3 World Tour : Marseille, Dan 1 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 9 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-944.php
 
-#EXTINF:-1 tvg-id="Africa League - Mbb vs. Nairobi City Thunder" tvg-name="14:30 Africa League : Mbb vs. Nairobi City Thunder - 24/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mbb-logo-black-and-white.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="Africa League - Mbb vs. Nairobi City Thunder" tvg-name="14:30 Africa League : Mbb vs. Nairobi City Thunder - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-404.php
 
 #EXTINF:-1 tvg-id="National Basketball Championship Betclic League Play Off - Semi-Finals - Game 2 - National Basketball Championship Betclic League Play Off - Semi-Finals - Game 2" tvg-name="15:55 National Basketball Championship Betclic League Play Off - Semi-Finals - Game 2 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", RTP 2 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-720.php
 
-#EXTINF:-1 tvg-id="Lithuanian League - Wolves vs Jonavos" tvg-name="15:50 Lithuanian League : Wolves vs Jonavos - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Wolves_vs_Jonavos.png" group-title="Basket", Sport Klub 7 Croatia
+#EXTINF:-1 tvg-id="Lithuanian League - Wolves vs Jonavos" tvg-name="15:50 Lithuanian League : Wolves vs Jonavos - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 7 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-25.php
 
-#EXTINF:-1 tvg-id="German League - Playoffs - 1/4 Final (G3) : Bayern vs Mitteldeutscher" tvg-name="16:30 German League: Playoffs - 1/4 Final (G3) : Bayern vs Mitteldeutscher - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Playoffs - 1/4 Final (G3) : Bayern_vs_Mitteldeutscher.png" group-title="Basket", Sport Klub 10 Croatia
+#EXTINF:-1 tvg-id="German League - Playoffs - 1/4 Final (G3) : Bayern vs Mitteldeutscher" tvg-name="16:30 German League: Playoffs - 1/4 Final (G3) : Bayern vs Mitteldeutscher - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 10 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-28.php
 
 #EXTINF:-1 tvg-id="Men's basketball - ORLEN Basket League quarter-final" tvg-name="17:30 Men's basketball: ORLEN Basket League quarter-final - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 3 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-129.php
 
-#EXTINF:-1 tvg-id="Basketball Africa League - Al Ahli Tripoli vs Rwandan Patriotic Army" tvg-name="17:30 Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army - 24/05/25" tvg-logo="https://volleybox.net/media/upload/teams/1490400125tmm8U.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="Basketball Africa League - Al Ahli Tripoli vs Rwandan Patriotic Army" tvg-name="17:30 Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-404.php
 
-#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Olimpia Milano_vs_Trento.png" group-title="Basket", Eurosport 2 IT
+#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Eurosport 2 IT
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Olimpia Milano_vs_Trento.png" group-title="Basket", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 4 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php
 
-#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Olimpia Milano_vs_Trento.png" group-title="Basket", Sport 4 Israel
+#EXTINF:-1 tvg-id="Italy Lega A - Olimpia Milano vs Trento" tvg-name="18:00 Italy Lega A : Olimpia Milano vs Trento - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 4 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-143.php
 
-#EXTINF:-1 tvg-id="ACB - Club Joventut Badalona vs. Basket Zaragoza 2002" tvg-name="18:00 ACB : Club Joventut Badalona vs. Basket Zaragoza 2002 - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Club Joventut Badalona_vs_Basket Zaragoza 2002.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Club Joventut Badalona vs. Basket Zaragoza 2002" tvg-name="18:00 ACB : Club Joventut Badalona vs. Basket Zaragoza 2002 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
 
-#EXTINF:-1 tvg-id="ACB - MoraBanc Andorra vs Manresa" tvg-name="18:00 ACB : MoraBanc Andorra vs Manresa - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/MoraBanc Andorra_vs_Manresa.png" group-title="Basket", Movistar Sports 2 Spain
+#EXTINF:-1 tvg-id="ACB - MoraBanc Andorra vs Manresa" tvg-name="18:00 ACB : MoraBanc Andorra vs Manresa - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Sports 2 Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-438.php
 
-#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Baskonia Vitoria-Gasteiz_vs_Bilbao Basket.png" group-title="Basket", #Vamos Spain
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", #Vamos Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-521.php
 
-#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Baskonia Vitoria-Gasteiz_vs_Bilbao Basket.png" group-title="Basket", Nova Sport Bulgaria
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sport Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-468.php
 
-#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Baskonia Vitoria-Gasteiz_vs_Bilbao Basket.png" group-title="Basket", Arena Sport 4 Serbia
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 4 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-581.php
 
-#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Baskonia Vitoria-Gasteiz_vs_Bilbao Basket.png" group-title="Basket", Cosmote Sport 7
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 7
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-628.php
 
-#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Baskonia Vitoria-Gasteiz_vs_Bilbao Basket.png" group-title="Basket", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ACB - Baskonia Vitoria-Gasteiz vs. Bilbao Basket" tvg-name="18:00 ACB : Baskonia Vitoria-Gasteiz vs. Bilbao Basket - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 2 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
 
-#EXTINF:-1 tvg-id="BBL - Ulm vs Alba Berlin" tvg-name="18:00 BBL : Ulm vs Alba Berlin - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Ulm_vs_Alba Berlin.png" group-title="Basket", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="BBL - Ulm vs Alba Berlin" tvg-name="18:00 BBL : Ulm vs Alba Berlin - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
 
-#EXTINF:-1 tvg-id="Bulgaria NBL - Rilski Sportist vs. Cherno More IG" tvg-name="18:15 Bulgaria NBL : Rilski Sportist vs. Cherno More IG - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Rilski Sportist_vs_Cherno More IG.png" group-title="Basket", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Bulgaria NBL - Rilski Sportist vs. Cherno More IG" tvg-name="18:15 Bulgaria NBL : Rilski Sportist vs. Cherno More IG - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Max Sport 2 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-473.php
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Indiana Fever W_vs_New York Liberty W.png" group-title="Basket", TNT Sports 3 UK
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TNT Sports 3 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Indiana Fever W_vs_New York Liberty W.png" group-title="Basket", CBS USA
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CBS USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-52.php
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Indiana Fever W_vs_New York Liberty W.png" group-title="Basket", CBSNY USA
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CBSNY USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-767.php
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Indiana Fever W_vs_New York Liberty W.png" group-title="Basket", Cosmote Sport 8 Greece
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 8 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-629.php
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Indiana Fever W_vs_New York Liberty W.png" group-title="Basket", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs New York Liberty W" tvg-name="19:00 WNBA : Indiana Fever W vs New York Liberty W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TV4 Sportkanalen
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
 
 #EXTINF:-1 tvg-id="Basketball 3x3 Pro Tour - Trogir" tvg-name="19:00 Basketball 3x3 Pro Tour: Trogir - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php
 
-#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes SK vs. Besiktas JK" tvg-name="19:30 Süper Ligi : Anadolu Efes SK vs. Besiktas JK - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Anadolu Efes SK_vs_Besiktas JK.png" group-title="Basket", beIN SPORTS 5 Turkey
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes SK vs. Besiktas JK" tvg-name="19:30 Süper Ligi : Anadolu Efes SK vs. Besiktas JK - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN SPORTS 5 Turkey
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-16.php
 
-#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes SK vs. Besiktas JK" tvg-name="19:30 Süper Ligi : Anadolu Efes SK vs. Besiktas JK - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Anadolu Efes SK_vs_Besiktas JK.png" group-title="Basket", Cosmote Sport 5 Greece
+#EXTINF:-1 tvg-id="Süper Ligi - Anadolu Efes SK vs. Besiktas JK" tvg-name="19:30 Süper Ligi : Anadolu Efes SK vs. Besiktas JK - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 5 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-626.php
 
-#EXTINF:-1 tvg-id="Italy Lega A - BTrieste vs Brescia" tvg-name="20:40 Italy Lega A : BTrieste vs Brescia - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/BTrieste_vs_Brescia.png" group-title="Basket", Eurosport 2 IT
+#EXTINF:-1 tvg-id="Italy Lega A - BTrieste vs Brescia" tvg-name="20:40 Italy Lega A : BTrieste vs Brescia - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Eurosport 2 IT
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="Italy Lega A - BTrieste vs Brescia" tvg-name="20:40 Italy Lega A : BTrieste vs Brescia - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/BTrieste_vs_Brescia.png" group-title="Basket", Arena Sport 6 Serbia
+#EXTINF:-1 tvg-id="Italy Lega A - BTrieste vs Brescia" tvg-name="20:40 Italy Lega A : BTrieste vs Brescia - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 6 Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-941.php
 
-#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Murcia_vs_Leyma Coruna.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
 
-#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Murcia_vs_Leyma Coruna.png" group-title="Basket", Cosmote Sport 7 Greece
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 7 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-628.php
 
-#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Murcia_vs_Leyma Coruna.png" group-title="Basket", Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Diema Sport 2 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-466.php
 
-#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Murcia_vs_Leyma Coruna.png" group-title="Basket", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ACB - Murcia vs Leyma Coruna" tvg-name="20:45 ACB : Murcia vs Leyma Coruna - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 2 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-102.php
 
-#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Dallas Wings W" tvg-name="21:00 WNBA : Atlanta Dream W vs Dallas Wings W - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Atlanta Dream W_vs_Dallas Wings W.png" group-title="Basket", CBS Sports Network USA
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Dallas Wings W" tvg-name="21:00 WNBA : Atlanta Dream W vs Dallas Wings W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CBS Sports Network USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
 
-#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Dallas Wings W" tvg-name="21:00 WNBA : Atlanta Dream W vs Dallas Wings W - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Atlanta Dream W_vs_Dallas Wings W.png" group-title="Basket", Cosmote Sport 8
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Dallas Wings W" tvg-name="21:00 WNBA : Atlanta Dream W vs Dallas Wings W - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 8
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-629.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Home Feed
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Home Feed
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Away Feed
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Away Feed
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ABCNY USA
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ABCNY USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-766.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ESPNews USA
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPNews USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-288.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", TNT Sports 1 UK
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TNT Sports 1 UK
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ABC USA
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ABC USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-51.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ESPNews USA
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPNews USA
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-288.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", TSN4
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN4
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-114.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", TSN5
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN5
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-115.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", TSN1
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN1
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-111.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes Spain
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", M+ #Vamos ES
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", M+ #Vamos ES
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-521.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport TV2 Portugal
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", CANAL+ Sport Poland
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", CANAL+ Sport Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-48.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", beIN Sports 1 France
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 1 France
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-116.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ESPN 1 NL
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN 1 NL
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-379.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ESPN 2 Mexico
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN 2 Mexico
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-926.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Cytavision Sports 6 Cyprus
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cytavision Sports 6 Cyprus
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-916.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 1 Premium Serbia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 4 Greece
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 1 Croatia
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", TV2 Sport X Denmark
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TV2 Sport X Denmark
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-808.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TV4 Sportkanalen
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ESPN2 Argentina
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Argentina
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-150.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Diema sport 3 Bulgaria
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Diema sport 3 Bulgaria
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-467.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", ESPN BR
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN BR
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Sport 5 Israel
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-144.php
 
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Basket", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php
 
 #EXTINF:-1 tvg-id="World Cup | Salt Lake City Women's Bouldering | Final - World Cup | Salt Lake City Women's Bouldering | Final" tvg-name="01:00 World Cup | Salt Lake City Women's Bouldering | Final - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 1 Italy
@@ -971,10 +971,10 @@ https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-
 #EXTINF:-1 tvg-id="Piazza di Siena 2025-Small Grand Prix - Piazza di Siena 2025-Small Grand Prix" tvg-name="19:00 Piazza di Siena 2025-Small Grand Prix - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Equestrian", Rai 2 Italy
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Bulgaria vs France" tvg-name="15:30 Women's Friendly tournament in Koszalin : Bulgaria vs France - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Bulgaria_vs_France.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Bulgaria vs France" tvg-name="15:30 Women's Friendly tournament in Koszalin : Bulgaria vs France - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
 
-#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Poland vs Sweden" tvg-name="19:00 Women's Friendly tournament in Koszalin : Poland vs Sweden - 24/05/25" tvg-logo="/home/runner/work/piholoprx/piholoprx/logos/Poland_vs_Sweden.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Poland vs Sweden" tvg-name="19:00 Women's Friendly tournament in Koszalin : Poland vs Sweden - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://prx.pibuco.duckdns.org/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php
 
 #EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 1 - Palm Beach Live - AVP Beach Volleyball League Week 1 - Palm Beach Live" tvg-name="02:00 AVP Beach Volleyball League Week 1 - Palm Beach Live - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CW USA
